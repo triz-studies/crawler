@@ -1,0 +1,503 @@
+2025-08-31 15:16:03,098 - INFO - Starting TRIZ Knowledge Base crawler...
+2025-08-31 15:16:03,099 - INFO - Skipping https://wiki.matriz.org/knowledge-base/triz/ (not allowed by robots.txt)
+2025-08-31 15:16:04,105 - INFO - Summary saved to triz_content/crawl_summary.json
+2025-08-31 15:16:04,105 - INFO - Sitemap saved to triz_content/sitemap.html
+2025-08-31 15:16:04,106 - INFO - Crawling completed successfully!
+2025-08-31 15:16:04,106 - INFO - Total pages crawled: 0
+2025-08-31 15:16:04,106 - INFO - Total images downloaded: 0
+2025-08-31 15:16:56,871 - INFO - Starting TRIZ Knowledge Base crawler...
+2025-08-31 15:16:56,871 - INFO - Bypassing robots.txt: True
+2025-08-31 15:16:56,872 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/ (depth: 0)
+2025-08-31 15:16:57,731 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/plugins/eazydocs/assets/images/icon/folder.png -> 976a7a31603a9f82cc3264ecde791709.png
+2025-08-31 15:16:57,791 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/10/logo.svg -> 60c0a72b2a2090a5b7217076349ca832.svg
+2025-08-31 15:16:57,850 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/10/logo_white.svg -> 5fd11b4ba98c88c25d573063e55606e4.svg
+2025-08-31 15:16:57,912 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/plugins/eazydocs/assets/images/icon/folder-closed.png -> b6da75dbe4e903a74f25c22fe4bd824b.png
+2025-08-31 15:16:57,976 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/themes/docly/assets/img/folder-open.png -> 8aaaafa2a4214d6af61ca5448369e0ea.png
+2025-08-31 15:16:58,104 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/plugins/eazydocs/assets/images/icon/folder-open.png -> 22321efdf1afda269509d29b2230b057.png
+2025-08-31 15:16:58,166 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/themes/docly/assets/img/folder-closed.png -> ebb37061bbd1b3b79e2388f8ca7ececf.png
+2025-08-31 15:16:58,180 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/
+2025-08-31 15:16:59,185 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-flow-enhancement/ (depth: 1)
+2025-08-31 15:16:59,705 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-flow-enhancement/
+2025-08-31 15:17:00,710 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/interaction-matrix-6168/interaction-matrix-6183/ (depth: 1)
+2025-08-31 15:17:01,356 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/08/FA_int-matrix-1024x284.png -> cf9fd6618dc64bb695b2d17cf4144196.png
+2025-08-31 15:17:01,371 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/interaction-matrix-6168/interaction-matrix-6183/
+2025-08-31 15:17:02,374 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-ranking-5941/ (depth: 1)
+2025-08-31 15:17:02,996 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/08/FA_funct-alg-1024x316.png -> e95ac8aa21a5037e4b7e2e42c325d8c2.png
+2025-08-31 15:17:03,010 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-ranking-5941/
+2025-08-31 15:17:04,015 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/ariz-5892/ariz-block-1/ (depth: 1)
+2025-08-31 15:17:04,634 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/ariz-5892/ariz-block-1/
+2025-08-31 15:17:05,640 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/feature-transfer-7060/ (depth: 1)
+2025-08-31 15:17:06,261 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/09/ft_l2-1024x185.png -> 4b9cda7db4f886e9fd1cb17a1e32dd4a.png
+2025-08-31 15:17:06,323 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/09/ft_l1-1024x182.png -> b9b4056f965705c93554939f2e121400.png
+2025-08-31 15:17:06,409 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/09/ft_2options-1024x317.png -> 6def1679302a5e20c4eafaa1ef27e37f.png
+2025-08-31 15:17:06,480 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/09/ft_3-levels-1024x188.png -> ca4c591e9c44697d0eda10f361b4ad48.png
+2025-08-31 15:17:06,570 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/09/ft_l3-1024x182.png -> e6458fcd605a6eb125ab7e3a584b6169.png
+2025-08-31 15:17:06,590 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/feature-transfer-7060/
+2025-08-31 15:17:07,594 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-ranking-5941/providing-function-6709/measurement-function-6715/ (depth: 1)
+2025-08-31 15:17:08,108 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-ranking-5941/providing-function-6709/measurement-function-6715/
+2025-08-31 15:17:09,113 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/component-analysis-5750/supersystem-5764/ (depth: 1)
+2025-08-31 15:17:09,645 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/component-analysis-5750/supersystem-5764/
+2025-08-31 15:17:10,650 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/main-function-5872/ (depth: 1)
+2025-08-31 15:17:11,283 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/08/FA_main-function-1024x96.png -> 5bc99a49c253b5d009386000b6a372fe.png
+2025-08-31 15:17:11,297 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/main-function-5872/
+2025-08-31 15:17:12,302 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-ranking-5941/corrective-function-6717/ (depth: 1)
+2025-08-31 15:17:12,904 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-ranking-5941/corrective-function-6717/
+2025-08-31 15:17:13,910 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-ranking-5941/auxiliary-function-6687/ (depth: 1)
+2025-08-31 15:17:14,634 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/09/FA_aux-f-1024x216.png -> b0d82e82f14c75f450c860e498d77702.png
+2025-08-31 15:17:14,650 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-ranking-5941/auxiliary-function-6687/
+2025-08-31 15:17:15,656 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/flow-analysis-5839/flow-disadvatage-6629/ (depth: 1)
+2025-08-31 15:17:16,284 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/flow-analysis-5839/flow-disadvatage-6629/
+2025-08-31 15:17:17,289 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/function-oriented-search-fos/ (depth: 1)
+2025-08-31 15:17:17,821 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/function-oriented-search-fos/
+2025-08-31 15:17:18,826 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/valu-analysis-6483/ (depth: 1)
+2025-08-31 15:17:19,376 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/valu-analysis-6483/
+2025-08-31 15:17:20,381 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-increasing-value/ (depth: 1)
+2025-08-31 15:17:21,166 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/03/trend_Value_mechanisms-1024x609.png -> e5f99379a04fa8d3eb5a6f431fec3c0e.png
+2025-08-31 15:17:21,181 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-increasing-value/
+2025-08-31 15:17:22,186 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/ (depth: 1)
+2025-08-31 15:17:22,828 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/07/FA-for-D_stages-1024x76.png -> 52cdc52d61601fe2d677f1bb0f568657.png
+2025-08-31 15:17:22,897 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/07/FA_pr_stages-1024x122.png -> 5366bb010577890bf0ce562b46d10e61.png
+2025-08-31 15:17:22,911 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/
+2025-08-31 15:17:23,917 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/concept-substantiation/ (depth: 1)
+2025-08-31 15:17:24,493 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/concept-substantiation/
+2025-08-31 15:17:25,498 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/ (depth: 1)
+2025-08-31 15:17:26,209 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/08/FA_fm_dev-1024x161.png -> 9cfd89de1c1fb3b2cf8f4a3106ef4389.png
+2025-08-31 15:17:26,334 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/08/FA_fm-pr-1024x489.png -> 5baea6de06b11e64f13dc6131b0608fb.png
+2025-08-31 15:17:26,348 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/
+2025-08-31 15:17:27,353 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/valu-analysis-6483/value-5943/ (depth: 1)
+2025-08-31 15:17:27,919 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/08/FA_value1.png -> 205cf0e95b38b7b18ae1a129c68cce78.png
+2025-08-31 15:17:27,983 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/08/FA_value-formula-300x191.png -> 2d8056bcc0597dec0e1b55b96bbc9d32.png
+2025-08-31 15:17:28,060 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/08/FA_value2.png -> ccdcf7279ab34da2b712f8210a458b98.png
+2025-08-31 15:17:28,078 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/valu-analysis-6483/value-5943/
+2025-08-31 15:17:29,084 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/component-analysis-5750/component-5760/ (depth: 1)
+2025-08-31 15:17:29,602 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/component-analysis-5750/component-5760/
+2025-08-31 15:17:30,607 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/resources-in-triz-7018/ (depth: 1)
+2025-08-31 15:17:31,151 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/resources-in-triz-7018/
+2025-08-31 15:17:32,156 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/benchmarking/ (depth: 1)
+2025-08-31 15:17:32,785 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/benchmarking/
+2025-08-31 15:17:33,789 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-ranking-5941/providing-function-6709/transport-function-6713/ (depth: 1)
+2025-08-31 15:17:34,505 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-ranking-5941/providing-function-6709/transport-function-6713/
+2025-08-31 15:17:35,510 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/clone-problems-application/ (depth: 1)
+2025-08-31 15:17:36,081 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/clone-problems-application/
+2025-08-31 15:17:37,086 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/flow-analysis-5839/ (depth: 1)
+2025-08-31 15:17:37,845 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/08/FlowA_przeplywy-1024x301.png -> 62963f88e0263b1e5e3fceb2647a765f.png
+2025-08-31 15:17:37,856 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/flow-analysis-5839/
+2025-08-31 15:17:38,861 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/ariz-5892/ (depth: 1)
+2025-08-31 15:17:39,466 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/ariz-5892/
+2025-08-31 15:17:40,471 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/flow-analysis-5839/flow/ (depth: 1)
+2025-08-31 15:17:41,013 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/flow-analysis-5839/flow/
+2025-08-31 15:17:42,018 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/cause-effect-chain-analysis-5817/initial-disadvantage-5822/ (depth: 1)
+2025-08-31 15:17:42,557 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/cause-effect-chain-analysis-5817/initial-disadvantage-5822/
+2025-08-31 15:17:43,562 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/ariz-5892/x-factor/ (depth: 1)
+2025-08-31 15:17:44,148 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/ariz-5892/x-factor/
+2025-08-31 15:17:45,153 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-cost-analysis-6247/ (depth: 1)
+2025-08-31 15:17:45,879 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/08/FA_f-cdiag0-1024x743.png -> ccbbdfbb70226a1b107c673a2e18884e.png
+2025-08-31 15:17:46,082 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/08/FA_f-cdiag1-1024x743.png -> 369d2056ce84522edfbed9410a7ce411.png
+2025-08-31 15:17:46,241 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/08/FA_f-cdiag2-1024x743.png -> 87cbe26d2d7b5f0d0820b1d03f188c7c.png
+2025-08-31 15:17:46,257 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-cost-analysis-6247/
+2025-08-31 15:17:47,262 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/ariz-5892/mini-problem/ (depth: 1)
+2025-08-31 15:17:47,821 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/ariz-5892/mini-problem/
+2025-08-31 15:17:48,826 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/contradictions/engineering-contradiction-5995/contradiction-matrix-6026/ (depth: 1)
+2025-08-31 15:17:49,463 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/08/Alt-matr_model-1024x359.png -> 4f53222f55ab786d4ef3cf5166a07889.png
+2025-08-31 15:17:49,650 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/08/contr-matrix-1024x1016.png -> 8a05e0764c35985e6266d8588f00b6e9.png
+2025-08-31 15:17:49,667 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/contradictions/engineering-contradiction-5995/contradiction-matrix-6026/
+2025-08-31 15:17:50,672 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/contradictions/physical-contradiction-6056/algorithm-for-resolving-physical-contradictions/ (depth: 1)
+2025-08-31 15:17:51,407 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/12/PC_algorythm-1024x901.png -> 809ae05d7f10f854594a6f6c89482ce1.png
+2025-08-31 15:17:51,503 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/12/alg-PC_model-1024x266.png -> ab4304b067ecf50aabbb7f6c25a2fa19.png
+2025-08-31 15:17:51,531 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/contradictions/physical-contradiction-6056/algorithm-for-resolving-physical-contradictions/
+2025-08-31 15:17:52,537 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/ariz-5892/tool/ (depth: 1)
+2025-08-31 15:17:53,008 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/ariz-5892/tool/
+2025-08-31 15:17:54,013 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/s-curve-analysis/ (depth: 1)
+2025-08-31 15:17:54,499 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/s-curve-analysis/
+2025-08-31 15:17:55,504 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-s-curve-evolution/ (depth: 1)
+2025-08-31 15:17:56,157 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/03/Scurve-1024x592.png -> 500009ab2b924a88437b0e928f290fc9.png
+2025-08-31 15:17:56,170 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-s-curve-evolution/
+2025-08-31 15:17:57,175 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-ranking-5941/corrective-function-6717/defect-6820/ (depth: 1)
+2025-08-31 15:17:57,744 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-ranking-5941/corrective-function-6717/defect-6820/
+2025-08-31 15:17:58,750 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/contradictions/inventive-principles-6023/ (depth: 1)
+2025-08-31 15:17:59,403 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/contradictions/inventive-principles-6023/
+2025-08-31 15:18:00,409 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/interaction-matrix-6168/ (depth: 1)
+2025-08-31 15:18:00,920 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/interaction-matrix-6168/
+2025-08-31 15:18:01,925 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/substance-field-modeling/standard-inventive-solutions/substance-field-model/ (depth: 1)
+2025-08-31 15:18:02,613 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/12/su-field_complx-1024x225.png -> 832cbb590bd10e18cc055aec0872e3c6.png
+2025-08-31 15:18:02,705 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/12/su-field_double.png -> 8961767e42a50fdb38a7cbc42300feab.png
+2025-08-31 15:18:02,775 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/12/su-field_insuf.png -> 2a004001a0f08aa1e105a367af38b04c.png
+2025-08-31 15:18:02,870 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/12/su-field_harm-1024x268.png -> 2f89bb79c36bb73a8a2379abc58d5020.png
+2025-08-31 15:18:02,957 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/12/su-field_basic.png -> 190b124158a31701fb063b8d81583a60.png
+2025-08-31 15:18:03,029 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/12/su-field_measur.png -> 9cf7d816c83c4a09267208552858d85b.png
+2025-08-31 15:18:03,109 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/12/su-fields_arrows-1024x109.png -> 1933ed47b591f38f4131c3be016b50ff.png
+2025-08-31 15:18:03,193 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/12/su-field_incomplete-1024x281.png -> a71f2d9cdbe83740c5cfb65aa037681c.png
+2025-08-31 15:18:03,275 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/12/su-field_chain.png -> a9ffe0a3c810619f9aa97879d6f2ed8a.png
+2025-08-31 15:18:03,381 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/12/su-fields_symb-examples-1024x212.png -> a28756a30fb4f28437c9831bf08ab24e.png
+2025-08-31 15:18:03,401 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/substance-field-modeling/standard-inventive-solutions/substance-field-model/
+2025-08-31 15:18:04,406 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-increasing-coordination/ (depth: 1)
+2025-08-31 15:18:05,020 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/03/0D-1D-2D-3D-1024x339.png -> dee85a76984648cb3370e24cfce263be.png
+2025-08-31 15:18:05,096 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/03/TESE_action-coord-1024x360.png -> 3970345e5b6ffcb50881e753c21aa163.png
+2025-08-31 15:18:05,113 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-increasing-coordination/
+2025-08-31 15:18:06,119 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/contradictions/ (depth: 1)
+2025-08-31 15:18:06,645 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/contradictions/
+2025-08-31 15:18:07,650 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/substance-field-modeling/standard-inventive-solutions/substance-field-analysis/ (depth: 1)
+2025-08-31 15:18:08,321 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/12/su-field_diag-1024x266.png -> a25bd5155cbd3b337b74b3a318d14c79.png
+2025-08-31 15:18:08,336 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/substance-field-modeling/standard-inventive-solutions/substance-field-analysis/
+2025-08-31 15:18:09,342 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/contradictions/engineering-contradiction-5995/ (depth: 1)
+2025-08-31 15:18:09,931 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/08/EC_altern-1024x147.png -> 0a2378ee7ade7bb6d0b3d65f89084aa3.png
+2025-08-31 15:18:10,065 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/08/EC_algor-1024x667.png -> 2fd4304b746392da3b2869b7796db004.png
+2025-08-31 15:18:10,150 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/08/EC_exampl-1024x175.png -> f828a91a5f7c79e7b9565488902dfbb9.png
+2025-08-31 15:18:10,238 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/08/EC_ord-1024x135.png -> 74acdda6cc160d58c9e34444c1b2163e.png
+2025-08-31 15:18:10,256 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/contradictions/engineering-contradiction-5995/
+2025-08-31 15:18:11,261 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/ariz-5892/conflicting-pair/ (depth: 1)
+2025-08-31 15:18:11,788 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/ariz-5892/conflicting-pair/
+2025-08-31 15:18:12,793 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-ranking-5941/providing-function-6709/supporting-function-6711/ (depth: 1)
+2025-08-31 15:18:13,261 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-ranking-5941/providing-function-6709/supporting-function-6711/
+2025-08-31 15:18:14,267 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/feature-transfer-7060/neutral-system/ (depth: 1)
+2025-08-31 15:18:14,799 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/feature-transfer-7060/neutral-system/
+2025-08-31 15:18:15,804 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-increasing-controllability/ (depth: 1)
+2025-08-31 15:18:16,368 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/03/TESE_control-states-1024x157.png -> 3673313fd83d9ecbfabc04298b6da432.png
+2025-08-31 15:18:16,433 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/03/TESE_control-level-1024x192.png -> 9f908cbe9632c993ef787b59e468bac4.png
+2025-08-31 15:18:16,449 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-increasing-controllability/
+2025-08-31 15:18:17,454 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/cost-analysis-7099/ (depth: 1)
+2025-08-31 15:18:18,025 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/cost-analysis-7099/
+2025-08-31 15:18:19,030 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/main-function-5872/target-component-6357/ (depth: 1)
+2025-08-31 15:18:19,594 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/main-function-5872/target-component-6357/
+2025-08-31 15:18:20,600 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/contradictions/engineering-contradiction-5995/contradiction-matrix-6026/typical-parameters/ (depth: 1)
+2025-08-31 15:18:21,142 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/contradictions/engineering-contradiction-5995/contradiction-matrix-6026/typical-parameters/
+2025-08-31 15:18:22,147 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-s-curve-evolution/main-parameter-of-value/ (depth: 1)
+2025-08-31 15:18:22,657 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-s-curve-evolution/main-parameter-of-value/
+2025-08-31 15:18:23,662 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/ariz-5892/product/ (depth: 1)
+2025-08-31 15:18:24,196 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/ariz-5892/product/
+2025-08-31 15:18:25,201 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/ (depth: 1)
+2025-08-31 15:18:25,899 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/08/tese-1024x501.png -> fe741374215b19ac638ed76f404a27f4.png
+2025-08-31 15:18:25,915 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/
+2025-08-31 15:18:26,921 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/ (depth: 1)
+2025-08-31 15:18:27,542 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/09/F-C-an-768x432.png -> 7035ce9b918ca81c6c2b0f1829a271ca.png
+2025-08-31 15:18:27,558 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/
+2025-08-31 15:18:28,563 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/trimming-6398/trimming-problem-6926/ (depth: 1)
+2025-08-31 15:18:29,102 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/trimming-6398/trimming-problem-6926/
+2025-08-31 15:18:30,107 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/component-analysis-5750/component-model-6170/ (depth: 1)
+2025-08-31 15:18:30,774 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/08/FA_CM_graph-1024x209.png -> c954cc1d6599555b39719d07e77678ff.png
+2025-08-31 15:18:30,863 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/08/FA_compmod-1024x210.png -> 91a01ae2e2617bf418105e02ab8d2800.png
+2025-08-31 15:18:30,880 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/component-analysis-5750/component-model-6170/
+2025-08-31 15:18:31,886 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-ranking-5941/providing-function-6709/ (depth: 1)
+2025-08-31 15:18:32,474 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-ranking-5941/providing-function-6709/
+2025-08-31 15:18:33,479 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/ariz-5892/ideal-final-result-5922/ (depth: 1)
+2025-08-31 15:18:34,011 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/ariz-5892/ideal-final-result-5922/
+2025-08-31 15:18:35,016 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/valu-analysis-6483/value-5943/ideal-system-5939/ (depth: 1)
+2025-08-31 15:18:35,618 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/08/FA_func-model_value_ideality.png -> 2feffcccb46803b1721a061c7d73e845.png
+2025-08-31 15:18:35,631 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/valu-analysis-6483/value-5943/ideal-system-5939/
+2025-08-31 15:18:36,636 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/feature-transfer-7060/feature-transfer-problem-7062/ (depth: 1)
+2025-08-31 15:18:37,298 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/feature-transfer-7060/feature-transfer-problem-7062/
+2025-08-31 15:18:38,303 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/cause-effect-chain-analysis-5817/ (depth: 1)
+2025-08-31 15:18:38,957 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/08/CECA_disadvant-1024x467.png -> 62b26480f31452adcae02b29c7e528ed.png
+2025-08-31 15:18:39,052 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/08/CECA_oper-1024x147.png -> 8f652e3dd7ed10be51f33a3011453a58.png
+2025-08-31 15:18:39,162 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/08/CECA_bricks-1024x249.png -> 5cc3ce9f4b53b060e5c827224fe30888.png
+2025-08-31 15:18:39,186 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/cause-effect-chain-analysis-5817/
+2025-08-31 15:18:40,187 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-transition-to-the-supersystem/ (depth: 1)
+2025-08-31 15:18:40,679 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-transition-to-the-supersystem/
+2025-08-31 15:18:41,684 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/component-analysis-5750/engineering-system-5762/ (depth: 1)
+2025-08-31 15:18:42,317 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/08/ES_pr-model-1024x273.png -> 1e73cf1bdf8cbe5a35b8495240510307.png
+2025-08-31 15:18:42,327 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/component-analysis-5750/engineering-system-5762/
+2025-08-31 15:18:43,332 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-model-6290/ (depth: 1)
+2025-08-31 15:18:43,927 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/08/FA_fm_func-code-1024x110.png -> de41f9f26a5aacbe5bcdbd3814bf6d60.png
+2025-08-31 15:18:44,063 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/08/FA_fm-pr_graph-1024x256.png -> 7039eead37ad54f1cb14076a6a3a0c99.png
+2025-08-31 15:18:44,196 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/08/FA_fm-pr_table-1024x331.png -> 9eec3854b2defb00b0e2a3b137f9dd92.png
+2025-08-31 15:18:44,288 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/08/FM_fm-gr_dev-1024x229.png -> eb0e19a30749cffa6cd4cbf606c5fcd7.png
+2025-08-31 15:18:44,391 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/08/FA_fm-dev_table-1024x205.png -> f408861d5ae3388c143531e7b5a22a89.png
+2025-08-31 15:18:44,402 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-model-6290/
+2025-08-31 15:18:45,405 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/cause-effect-chain-analysis-5817/key-disadvantage-5820/ (depth: 1)
+2025-08-31 15:18:46,213 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/08/CECA_kd_stat-1024x290.png -> 1b3c6b049b7496cd1e96f49c02a6b96c.png
+2025-08-31 15:18:46,236 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/cause-effect-chain-analysis-5817/key-disadvantage-5820/
+2025-08-31 15:18:47,240 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-s-curve-evolution/s-curve/ (depth: 1)
+2025-08-31 15:18:47,854 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/03/S-curve_levelofinv-1024x612.png -> 267b27290e87353e3d8c54540f225384.png
+2025-08-31 15:18:47,944 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/03/S-curve_MPV-1024x611.png -> 41b909e68df6f094557983e1952d3a92.png
+2025-08-31 15:18:48,024 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/03/S-curve_stag-1024x162.png -> 69aea2477eed28421abdb20e31fd6243.png
+2025-08-31 15:18:48,128 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/03/S-curve_indicators-1024x592.png -> fec8785ec51029cdeb86e9bce196a39b.png
+2025-08-31 15:18:48,226 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/03/S-curve_numbofpat-1024x610.png -> 1594b92546e291d0738fda13a5877c8a.png
+2025-08-31 15:18:48,319 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/03/S-curve_profitability-1024x613.png -> 516e8accb2c219bfe6733b51a11a31a6.png
+2025-08-31 15:18:48,342 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-s-curve-evolution/s-curve/
+2025-08-31 15:18:49,347 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/key-problem-7057/ (depth: 1)
+2025-08-31 15:18:49,977 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/09/key-pr-1024x290.png -> 3511ea768621c818a4ef4600af3d2971.png
+2025-08-31 15:18:49,990 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/key-problem-7057/
+2025-08-31 15:18:50,996 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-increasing-completeness-of-system-components/ (depth: 1)
+2025-08-31 15:18:51,627 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/03/TESE_complet-1024x306.png -> 676769791096b960f57d6c3cebccd413.png
+2025-08-31 15:18:51,643 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-increasing-completeness-of-system-components/
+2025-08-31 15:18:52,648 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-increasing-dynamization/ (depth: 1)
+2025-08-31 15:18:53,245 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/03/TESE_dynam_composition-1024x234.png -> e833a1cd2c388c8c0ca334ee225db24b.png
+2025-08-31 15:18:53,324 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/03/TESE_dynam-subst-1024x215.png -> 9e2f9f7e54fb9a704f457700134ab7b6.png
+2025-08-31 15:18:53,410 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/03/TESE_dynam-field_stages-1024x152.png -> c7c96c3e57349b709480f8f69e685142.png
+2025-08-31 15:18:53,499 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/03/TESE_dynam-field-1024x232.png -> a672a965ca9f27839f5e82de8e6812b1.png
+2025-08-31 15:18:53,524 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-increasing-dynamization/
+2025-08-31 15:18:54,529 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/feature-transfer-7060/competing-system/ (depth: 1)
+2025-08-31 15:18:54,984 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/feature-transfer-7060/competing-system/
+2025-08-31 15:18:55,988 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-ranking-5941/basic-function-5722/ (depth: 1)
+2025-08-31 15:18:56,570 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/08/FA_basic-f-1024x216.png -> 4182e4a9e86623405cb81de294c00058.png
+2025-08-31 15:18:56,588 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-ranking-5941/basic-function-5722/
+2025-08-31 15:18:57,593 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/database-of-scientific-effects/ (depth: 1)
+2025-08-31 15:18:58,111 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/database-of-scientific-effects/
+2025-08-31 15:18:59,113 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/glossary-6146/ (depth: 1)
+2025-08-31 15:18:59,827 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/glossary-6146/
+2025-08-31 15:19:00,832 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/ (depth: 1)
+2025-08-31 15:19:01,447 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/08/3stages_pr-id-1024x76.png -> ed2c87254a26663af928bc1e515b3475.png
+2025-08-31 15:19:01,461 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/
+2025-08-31 15:19:02,466 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/trimming-6398/trimming-rules-6730/ (depth: 1)
+2025-08-31 15:19:03,104 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/09/trim_dev_ruleA-1024x153.png -> 5a8df2ad3e6779659b43567d5ea884be.png
+2025-08-31 15:19:03,196 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/09/trim_dev_rule-B-1024x132.png -> 5e64bcf6e7b1116e96f9a6b882a80dde.png
+2025-08-31 15:19:03,305 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/09/trim_dev_ruleC-1024x321.png -> e90ad717781a27cd6bfab78ff19a5748.png
+2025-08-31 15:19:03,325 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/trimming-6398/trimming-rules-6730/
+2025-08-31 15:19:04,330 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/valu-analysis-6483/functionality-index/ (depth: 1)
+2025-08-31 15:19:04,852 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/valu-analysis-6483/functionality-index/
+2025-08-31 15:19:05,855 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/interaction-matrix-6168/interaction-6207/ (depth: 1)
+2025-08-31 15:19:06,410 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/interaction-matrix-6168/interaction-6207/
+2025-08-31 15:19:07,415 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/feature-transfer-7060/alternative-system/ (depth: 1)
+2025-08-31 15:19:08,114 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/02/ft_alt-syst-2-1024x185.png -> c2928242ce25b21a84b2e13b73727632.png
+2025-08-31 15:19:08,209 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/02/ft_alt-syst-3-1024x185.png -> 51ee3f547b2644fafe3489574928bd5d.png
+2025-08-31 15:19:08,304 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/02/ft_alt-syst-1-1024x185.png -> 19863585b0f3ac3884d6c46aacdd6ad2.png
+2025-08-31 15:19:08,322 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/feature-transfer-7060/alternative-system/
+2025-08-31 15:19:09,327 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-ranking-5941/additional-function-6684/ (depth: 1)
+2025-08-31 15:19:09,970 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/09/FA_addit-f-1024x216.png -> 48feb91dccbe9509c48059114e98f189.png
+2025-08-31 15:19:09,990 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-ranking-5941/additional-function-6684/
+2025-08-31 15:19:10,995 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/contradictions/physical-contradiction-6056/ (depth: 1)
+2025-08-31 15:19:11,595 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/08/pc_example-1024x125.png -> 078b311230b0115570862e7dec7fb8d4.png
+2025-08-31 15:19:11,684 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/08/pc_format-1024x193.png -> 4df575c4a7f3514d8605e2285959e9a4.png
+2025-08-31 15:19:11,706 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/contradictions/physical-contradiction-6056/
+2025-08-31 15:19:12,711 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-increasing-degree-of-trimming/ (depth: 1)
+2025-08-31 15:19:13,242 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-increasing-degree-of-trimming/
+2025-08-31 15:19:14,247 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-5674/ (depth: 1)
+2025-08-31 15:19:14,911 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/07/func_model-1024x133.png -> 415bfd8cd446dcbd51926ad0b46fc68a.png
+2025-08-31 15:19:14,928 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-5674/
+2025-08-31 15:19:15,933 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-disadvantage-6287/ (depth: 1)
+2025-08-31 15:19:16,446 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-disadvantage-6287/
+2025-08-31 15:19:17,452 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/cause-effect-chain-analysis-5817/vicious-circle/ (depth: 1)
+2025-08-31 15:19:18,198 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/01/CECA_VicC-1024x595.png -> 0c5abced1889566b28aa0e6ea9441688.png
+2025-08-31 15:19:18,218 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/cause-effect-chain-analysis-5817/vicious-circle/
+2025-08-31 15:19:19,223 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/substance-field-modeling/standard-inventive-solutions/ (depth: 1)
+2025-08-31 15:19:19,921 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_124-e1738250582262.png -> 2e21441d4c3a4653004bdd5e2c0e453d.png
+2025-08-31 15:19:19,985 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_242_a-e1738218425147.png -> 9f4b87b322122059f38db483791b6991.png
+2025-08-31 15:19:20,071 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_241-e1738251265362.png -> f8d32ce01b9eb00ab9dbf7a324b1c7c2.png
+2025-08-31 15:19:20,137 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_116-e1738249908434.png -> ffbf9077dd49346cb007fb7fc85b8776.png
+2025-08-31 15:19:20,236 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_113-e1738249752718.png -> 13364bbf1eca50ccf2319d997cdba221.png
+2025-08-31 15:19:20,306 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_117-e1738249884887.png -> f7e2872fa7e97d96d576578df1432f93.png
+2025-08-31 15:19:20,379 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_122-e1738250190313.png -> a1f05c363daee3f1ef74aa277f311077.png
+2025-08-31 15:19:20,463 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_212-e1738250825684.png -> 9ea053fa6be1ee1702e3c86c21755857.png
+2025-08-31 15:19:20,553 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_423-e1738222711788.png -> 6dc27c040b9d8aec554e8801a255d923.png
+2025-08-31 15:19:20,656 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_442-e1738223673692.png -> 1ddac45a402aab67a2b5cda802c29a70.png
+2025-08-31 15:19:20,727 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_432-e1738223425801.png -> 66e164f4c0806c987275f508dcb62104.png
+2025-08-31 15:19:20,887 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_225_b-e1738251042647.png -> 9e0cd3dcb1c6eb565377f343dcf2ff15.png
+2025-08-31 15:19:20,955 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_1-1-2-e1738249711879.png -> 03c419ae6cfceb7c12a15f715786ce31.png
+2025-08-31 15:19:21,047 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_225-e1738251023830.png -> bae486ed521e2b08e734a6ddbfd5696d.png
+2025-08-31 15:19:21,137 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_211-e1738250650897.png -> 1a42bcb03ba865d0e0d9f371f1a7be80.png
+2025-08-31 15:19:21,224 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_222-e1738250858175.png -> 4cf020283e330a7eafe2f442e160dbf1.png
+2025-08-31 15:19:21,303 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_249-e1738219807601.png -> 396f585616850af7f44c802777f66383.png
+2025-08-31 15:19:21,378 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_248-e1738219703170.png -> 0665d52f44c1fb54f0313e6adc2d90b6.png
+2025-08-31 15:19:21,441 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_2411-1-e1738220190414.png -> 99cceb824969313a509ef1f4b9e250d3.png
+2025-08-31 15:19:21,526 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_1-1-1-e1738249667390.png -> dbbfea8ac4769eedf62bc488d42bfaca.png
+2025-08-31 15:19:21,588 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_242_b-e1738218581240.png -> 16ba361bf506d6cded00702f4401b62c.png
+2025-08-31 15:19:21,670 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_224-e1738251000430.png -> 1e58fccb636874c7e07e5af546ae2ab7.png
+2025-08-31 15:19:21,757 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_422-e1738222553995.png -> 4d60ba6bdb08a6e24e80fcf7b179f555.png
+2025-08-31 15:19:21,894 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_121-e1738250033385.png -> 59898978c2f612e450fc231ed08d1b1f.png
+2025-08-31 15:19:21,982 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_226-e1738251202221.png -> 5d857de109f54d1adbff2376cd514859.png
+2025-08-31 15:19:22,050 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_223-a-e1738250933523.png -> 28088bb54ec0fbe6c03cd72aa9d02ac8.png
+2025-08-31 15:19:22,120 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_123-e1738250276243.png -> 0d968548afa8d671beadf356e510aa7f.png
+2025-08-31 15:19:22,195 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_246-e1738219356541.png -> 8d8b6d69ce5b0528a36149ee613c0059.png
+2025-08-31 15:19:22,280 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_443-e1738223947217.png -> e9ac39f6e2af9d1be0b76b9e8f12fe73.png
+2025-08-31 15:19:22,354 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_223-b-e1738250954649.png -> 8aa04d0936e8dcb494cf58fb28267fd5.png
+2025-08-31 15:19:22,669 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_242_c-e1738251304436.png -> 3740a4a13ceab00ae66f068b12016dec.png
+2025-08-31 15:19:22,747 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_245-e1738219108738.png -> 35c3ae85dca13cc4198e2b96e3493be2.png
+2025-08-31 15:19:22,842 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_421-e1738222411506.png -> 3367bd8c8cb4e21a11d1f61eda00da9c.png
+2025-08-31 15:19:22,928 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_125-e1738250605791.png -> fbaf5d7f63066de85469e2b876354f9b.png
+2025-08-31 15:19:22,952 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/substance-field-modeling/standard-inventive-solutions/
+2025-08-31 15:19:23,954 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/feature-transfer-7060/base-system/ (depth: 1)
+2025-08-31 15:19:24,501 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/feature-transfer-7060/base-system/
+2025-08-31 15:19:25,504 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/trimming-6398/trimming-model-6924/ (depth: 1)
+2025-08-31 15:19:26,073 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/trimming-6398/trimming-model-6924/
+2025-08-31 15:19:27,078 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/ (depth: 1)
+2025-08-31 15:19:27,706 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/08/3stages_pr-sol-1024x76.png -> 87c131dbee99b5bd9f125a4c56c7fb2e.png
+2025-08-31 15:19:27,859 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/08/prob-sol_mod-1024x266.png -> 0d070245c020094f7856a90b58fb2690.png
+2025-08-31 15:19:27,884 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/
+2025-08-31 15:19:28,887 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/component-analysis-5750/ (depth: 1)
+2025-08-31 15:19:29,505 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/08/FA_ca-proc_loop-1024x211.png -> c0a51b1a49911134880538acb9086bec.png
+2025-08-31 15:19:29,581 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/08/FA_ca-proc_seq-1024x63.png -> cd99b56a3a537e03222a7b577e62988b.png
+2025-08-31 15:19:29,668 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/08/FA_ca-proc_par-1024x165.png -> e83767a033fc60e2e69b964c647de71f.png
+2025-08-31 15:19:29,693 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/component-analysis-5750/
+2025-08-31 15:19:30,698 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-uneven-development-of-system-components/ (depth: 1)
+2025-08-31 15:19:31,384 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/03/TESE_uneven-1024x517.png -> 549f3634557b483787b9c643b8341f20.png
+2025-08-31 15:19:31,402 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-uneven-development-of-system-components/
+2025-08-31 15:19:32,408 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-decreasing-human-involvement/ (depth: 1)
+2025-08-31 15:19:32,911 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-decreasing-human-involvement/
+2025-08-31 15:19:33,916 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/trimming-6398/ (depth: 1)
+2025-08-31 15:19:34,461 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/trimming-6398/
+2025-08-31 15:19:35,466 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-ranking-5941/productive-function-6707/ (depth: 1)
+2025-08-31 15:19:35,979 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-ranking-5941/productive-function-6707/
+2025-08-31 15:19:36,984 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/ariz-5892/operating-time/ (depth: 1)
+2025-08-31 15:19:37,615 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/06/ARIZ_OpTime-1024x175.png -> e86e466fff69367ea590e37b54b83496.png
+2025-08-31 15:19:37,635 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/ariz-5892/operating-time/
+2025-08-31 15:19:38,640 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/substance-field-modeling/ (depth: 1)
+2025-08-31 15:19:39,286 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/01/su-field_diag-1024x266.png -> d0f575feb42b6d4a8db9ecef46c7b5fc.png
+2025-08-31 15:19:39,306 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/substance-field-modeling/
+2025-08-31 15:19:40,311 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/trimming-6398/partial-trimming-6946/ (depth: 1)
+2025-08-31 15:19:40,954 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/09/trim_partial-trimming_example-1024x196.png -> bd517efea0a41b133083c38cd84f0288.png
+2025-08-31 15:19:40,970 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/trimming-6398/partial-trimming-6946/
+2025-08-31 15:19:41,975 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/ariz-5892/operating-zone/ (depth: 1)
+2025-08-31 15:19:42,629 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2025/06/ARIZ_OpZone-1024x175.png -> 549f964e1d33093ded25074086531563.png
+2025-08-31 15:19:42,649 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/ariz-5892/operating-zone/
+2025-08-31 15:19:43,654 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/component-analysis-5750/supersystem-5764/ (depth: 2)
+2025-08-31 15:19:44,384 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/component-analysis-5750/supersystem-5764/
+2025-08-31 15:19:45,387 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/component-analysis-5750/engineering-system-5762/ (depth: 2)
+2025-08-31 15:19:46,302 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/component-analysis-5750/engineering-system-5762/
+2025-08-31 15:19:47,308 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/ (depth: 2)
+2025-08-31 15:19:48,046 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/
+2025-08-31 15:19:49,051 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/component-analysis-5750/ (depth: 2)
+2025-08-31 15:19:49,764 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/component-analysis-5750/
+2025-08-31 15:19:50,769 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/ (depth: 2)
+2025-08-31 15:19:51,553 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/
+2025-08-31 15:19:52,558 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/component-analysis-5750/component-5760/ (depth: 2)
+2025-08-31 15:19:53,373 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/component-analysis-5750/component-5760/
+2025-08-31 15:19:54,378 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/component-analysis-5750/component-model-6170/ (depth: 2)
+2025-08-31 15:19:55,157 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/component-analysis-5750/component-model-6170/
+2025-08-31 15:19:56,163 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/interaction-matrix-6168/ (depth: 2)
+2025-08-31 15:19:56,851 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/interaction-matrix-6168/
+2025-08-31 15:19:57,854 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/interaction-matrix-6168/interaction-6207/ (depth: 2)
+2025-08-31 15:19:58,615 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/interaction-matrix-6168/interaction-6207/
+2025-08-31 15:19:59,620 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-ranking-5941/transport-function-6713/ (depth: 2)
+2025-08-31 15:20:00,326 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-ranking-5941/transport-function-6713/
+2025-08-31 15:20:01,331 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/main-function-5872/target-component-6357/ (depth: 2)
+2025-08-31 15:20:02,097 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/main-function-5872/target-component-6357/
+2025-08-31 15:20:03,102 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/valu-analysis-6483/value-5943/ (depth: 2)
+2025-08-31 15:20:03,866 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/valu-analysis-6483/value-5943/
+2025-08-31 15:20:04,871 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-5674/ (depth: 2)
+2025-08-31 15:20:05,621 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-5674/
+2025-08-31 15:20:06,624 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-ranking-5941/supporting-function-6711/ (depth: 2)
+2025-08-31 15:20:07,346 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-ranking-5941/supporting-function-6711/
+2025-08-31 15:20:08,351 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-ranking-5941/auxiliary-function-6687/ (depth: 2)
+2025-08-31 15:20:09,062 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-ranking-5941/auxiliary-function-6687/
+2025-08-31 15:20:10,068 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-ranking-5941/productive-function-6707/ (depth: 2)
+2025-08-31 15:20:10,914 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-ranking-5941/productive-function-6707/
+2025-08-31 15:20:11,919 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-ranking-5941/measurement-function-6715/ (depth: 2)
+2025-08-31 15:20:12,713 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-ranking-5941/measurement-function-6715/
+2025-08-31 15:20:13,714 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-ranking-5941/additional-function-6684/ (depth: 2)
+2025-08-31 15:20:14,493 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-ranking-5941/additional-function-6684/
+2025-08-31 15:20:15,498 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-ranking-5941/providing-function-6709/ (depth: 2)
+2025-08-31 15:20:16,309 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-ranking-5941/providing-function-6709/
+2025-08-31 15:20:17,315 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-ranking-5941/corrective-function-6717/ (depth: 2)
+2025-08-31 15:20:17,995 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-ranking-5941/corrective-function-6717/
+2025-08-31 15:20:19,000 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/main-function-5872/ (depth: 2)
+2025-08-31 15:20:19,706 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/main-function-5872/
+2025-08-31 15:20:20,711 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-ranking-5941/basic-function-5722/ (depth: 2)
+2025-08-31 15:20:21,465 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-ranking-5941/basic-function-5722/
+2025-08-31 15:20:22,467 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-ranking-5941/providing-function-6709/supporting-function-6711/ (depth: 2)
+2025-08-31 15:20:23,159 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-ranking-5941/providing-function-6709/supporting-function-6711/
+2025-08-31 15:20:24,165 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-ranking-5941/ (depth: 2)
+2025-08-31 15:20:24,885 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-ranking-5941/
+2025-08-31 15:20:25,891 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/defect-6820/ (depth: 2)
+2025-08-31 15:20:26,577 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/defect-6820/
+2025-08-31 15:20:27,583 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/valu-analysis-6483/function-cost-analysis-6247/ (depth: 2)
+2025-08-31 15:20:28,315 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/valu-analysis-6483/function-cost-analysis-6247/
+2025-08-31 15:20:29,321 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/interaction-matrix-6168/interaction-matrix-6183/ (depth: 2)
+2025-08-31 15:20:30,052 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/interaction-matrix-6168/interaction-matrix-6183/
+2025-08-31 15:20:31,058 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/cost-analysis-7099/ (depth: 2)
+2025-08-31 15:20:31,795 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/cost-analysis-7099/
+2025-08-31 15:20:32,800 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/component-analysis-5750/ (depth: 2)
+2025-08-31 15:20:33,586 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/component-analysis-5750/
+2025-08-31 15:20:34,591 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-disadvantage-6287/ (depth: 2)
+2025-08-31 15:20:35,296 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-disadvantage-6287/
+2025-08-31 15:20:36,302 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-model-6290/ (depth: 2)
+2025-08-31 15:20:37,053 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-model-6290/
+2025-08-31 15:20:38,056 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/valu-analysis-6483/value-5943/ideal-system-5939/ (depth: 2)
+2025-08-31 15:20:38,858 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/valu-analysis-6483/value-5943/ideal-system-5939/
+2025-08-31 15:20:39,864 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/supersystem-5764/ (depth: 2)
+2025-08-31 15:20:40,537 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/supersystem-5764/
+2025-08-31 15:20:41,542 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/function-analysis-5611/ (depth: 2)
+2025-08-31 15:20:42,275 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/function-analysis-5611/
+2025-08-31 15:20:43,280 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/engineering-system-5762/ (depth: 2)
+2025-08-31 15:20:44,003 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/engineering-system-5762/
+2025-08-31 15:20:45,008 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/problem-models-6028/engineering-contradiction-5995/ (depth: 2)
+2025-08-31 15:20:45,783 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/problem-models-6028/engineering-contradiction-5995/
+2025-08-31 15:20:46,788 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-ranking-5941/providing-function-6709/measurement-function-6715/ (depth: 2)
+2025-08-31 15:20:47,545 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-ranking-5941/providing-function-6709/measurement-function-6715/
+2025-08-31 15:20:48,552 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/contradictions/physical-contradiction-6056/algorithm-for-resolving-physical-contradictions/?preview_id=8631&preview_nonce=0a8d1ff721&preview=true (depth: 2)
+2025-08-31 15:20:48,728 - WARNING - Failed to fetch https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/contradictions/physical-contradiction-6056/algorithm-for-resolving-physical-contradictions/?preview_id=8631&preview_nonce=0a8d1ff721&preview=true: 403
+2025-08-31 15:20:49,734 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/contradictions/physical-contradiction-6056/algorithm-for-resolving-physical-contradictions/?preview_id=8631&preview_nonce=7da06bb5f1&preview=true (depth: 2)
+2025-08-31 15:20:49,913 - WARNING - Failed to fetch https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/contradictions/physical-contradiction-6056/algorithm-for-resolving-physical-contradictions/?preview_id=8631&preview_nonce=7da06bb5f1&preview=true: 403
+2025-08-31 15:20:50,918 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/main-parameter-of-value/ (depth: 2)
+2025-08-31 15:20:51,637 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/main-parameter-of-value/
+2025-08-31 15:20:52,642 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/standard-inventive-solutions/substance-field-model/ (depth: 2)
+2025-08-31 15:20:53,440 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/standard-inventive-solutions/substance-field-model/
+2025-08-31 15:20:54,446 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/standard-inventive-solutions/substance-field-analysis/substance-field-model/ (depth: 2)
+2025-08-31 15:20:55,239 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/standard-inventive-solutions/substance-field-analysis/substance-field-model/
+2025-08-31 15:20:56,244 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/system-of-76-standard-inventive-solutions/substance-field-model/ (depth: 2)
+2025-08-31 15:20:57,022 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/system-of-76-standard-inventive-solutions/substance-field-model/
+2025-08-31 15:20:58,027 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/standard-inventive-solutions/substance-field-analysis/ (depth: 2)
+2025-08-31 15:20:58,755 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/standard-inventive-solutions/substance-field-analysis/
+2025-08-31 15:20:59,761 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/standard-inventive-solutions/ (depth: 2)
+2025-08-31 15:21:00,625 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/standard-inventive-solutions/
+2025-08-31 15:21:01,630 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/contradictions/physical-contradiction-6056/?preview_id=6056&preview_nonce=1429495adf&preview=true (depth: 2)
+2025-08-31 15:21:01,793 - WARNING - Failed to fetch https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/contradictions/physical-contradiction-6056/?preview_id=6056&preview_nonce=1429495adf&preview=true: 403
+2025-08-31 15:21:02,797 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/contradictions/engineering-contradiction-5995/?preview_id=5995&preview_nonce=fa1d6d95d8&preview=true (depth: 2)
+2025-08-31 15:21:02,968 - WARNING - Failed to fetch https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/contradictions/engineering-contradiction-5995/?preview_id=5995&preview_nonce=fa1d6d95d8&preview=true: 403
+2025-08-31 15:21:03,973 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/system-of-76-standard-inventive-solutions/ (depth: 2)
+2025-08-31 15:21:04,288 - WARNING - Failed to fetch https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/system-of-76-standard-inventive-solutions/: 404
+2025-08-31 15:21:05,294 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/models-of-solutions-6030/inventive-principles-6023/ (depth: 2)
+2025-08-31 15:21:06,037 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/models-of-solutions-6030/inventive-principles-6023/
+2025-08-31 15:21:07,043 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/problem-models-6028/physical-contradiction-6056/ (depth: 2)
+2025-08-31 15:21:07,815 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/problem-models-6028/physical-contradiction-6056/
+2025-08-31 15:21:08,821 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/contradiction-matrix-6026/ (depth: 2)
+2025-08-31 15:21:09,581 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/contradiction-matrix-6026/
+2025-08-31 15:21:10,587 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-cost-analysis-6247/ (depth: 2)
+2025-08-31 15:21:11,322 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-cost-analysis-6247/
+2025-08-31 15:21:12,328 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/ariz-5892/?preview_id=5892&preview_nonce=45154cb42e&preview=true (depth: 2)
+2025-08-31 15:21:12,539 - WARNING - Failed to fetch https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/ariz-5892/?preview_id=5892&preview_nonce=45154cb42e&preview=true: 403
+2025-08-31 15:21:13,540 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-ranking-5941/value-5943/ (depth: 2)
+2025-08-31 15:21:14,317 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-ranking-5941/value-5943/
+2025-08-31 15:21:15,322 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-ranking-5941/value-5943/ideal-system-5939/ (depth: 2)
+2025-08-31 15:21:16,232 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-ranking-5941/value-5943/ideal-system-5939/
+2025-08-31 15:21:17,238 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/key-disadvantage-5820/ (depth: 2)
+2025-08-31 15:21:18,031 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/key-disadvantage-5820/
+2025-08-31 15:21:19,037 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/system-of-76-standard-inventive-solutions/substance-field-analysis/ (depth: 2)
+2025-08-31 15:21:19,852 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/system-of-76-standard-inventive-solutions/substance-field-analysis/
+2025-08-31 15:21:20,858 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-ranking-5941/corrective-function-6717/defect-6820/ (depth: 2)
+2025-08-31 15:21:21,643 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-ranking-5941/corrective-function-6717/defect-6820/
+2025-08-31 15:21:22,648 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-disadvantage-6287/ (depth: 2)
+2025-08-31 15:21:23,381 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-disadvantage-6287/
+2025-08-31 15:21:24,387 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/functionality-index/ (depth: 2)
+2025-08-31 15:21:25,202 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/functionality-index/
+2025-08-31 15:21:26,207 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/valu-analysis-6483/ (depth: 2)
+2025-08-31 15:21:26,965 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/valu-analysis-6483/
+2025-08-31 15:21:27,970 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/operating-time/ (depth: 2)
+2025-08-31 15:21:28,736 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/operating-time/
+2025-08-31 15:21:29,742 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/contradictions/typical-parameters/ (depth: 2)
+2025-08-31 15:21:30,690 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/contradictions/typical-parameters/
+2025-08-31 15:21:31,695 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-ranking-5941/providing-function-6709/transport-function-6713/ (depth: 2)
+2025-08-31 15:21:32,499 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-ranking-5941/providing-function-6709/transport-function-6713/
+2025-08-31 15:21:33,504 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/standard-inventive-solutions/substance-field-model/?preview_id=8640&preview_nonce=aaf529d670&preview=true (depth: 2)
+2025-08-31 15:21:33,707 - WARNING - Failed to fetch https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/standard-inventive-solutions/substance-field-model/?preview_id=8640&preview_nonce=aaf529d670&preview=true: 403
+2025-08-31 15:21:34,712 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-5674/?preview_id=5674&preview_nonce=91df39f650&preview=true (depth: 2)
+2025-08-31 15:21:34,881 - WARNING - Failed to fetch https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-5674/?preview_id=5674&preview_nonce=91df39f650&preview=true: 403
+2025-08-31 15:21:35,882 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/component-5760/ (depth: 2)
+2025-08-31 15:21:36,604 - INFO - Successfully crawled https://wiki.matriz.org/knowledge-base/triz/component-5760/
+2025-08-31 15:21:37,609 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/system-of-76-standard-inventive-solutions/ (depth: 3)
+2025-08-31 15:21:37,969 - WARNING - Failed to fetch https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/system-of-76-standard-inventive-solutions/: 404
+2025-08-31 15:21:38,973 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/system-of-76-standard-inventive-solutions/ (depth: 3)
+2025-08-31 15:21:39,260 - WARNING - Failed to fetch https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/system-of-76-standard-inventive-solutions/: 404
+2025-08-31 15:21:40,374 - INFO - Summary saved to triz_content/crawl_summary.json
+2025-08-31 15:21:40,375 - INFO - Sitemap saved to triz_content/sitemap.html
+2025-08-31 15:21:40,375 - INFO - Crawling completed successfully!
+2025-08-31 15:21:40,375 - INFO - Total pages crawled: 157
+2025-08-31 15:21:40,375 - INFO - Total images downloaded: 136
+2025-08-31 15:26:07,413 - INFO - Starting TRIZ Knowledge Base crawler...
+2025-08-31 15:26:07,414 - INFO - Bypassing robots.txt: True
+2025-08-31 15:26:07,414 - INFO - Crawling https://wiki.matriz.org/knowledge-base/triz/ (depth: 0)
+2025-08-31 15:26:08,660 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/10/logo_white.svg -> 5fd11b4ba98c88c25d573063e55606e4.svg
+2025-08-31 15:26:08,721 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/themes/docly/assets/img/folder-closed.png -> ebb37061bbd1b3b79e2388f8ca7ececf.png
+2025-08-31 15:26:08,788 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/plugins/eazydocs/assets/images/icon/folder-open.png -> 22321efdf1afda269509d29b2230b057.png
+2025-08-31 15:26:08,852 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/plugins/eazydocs/assets/images/icon/folder.png -> 976a7a31603a9f82cc3264ecde791709.png
+2025-08-31 15:26:08,915 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/plugins/eazydocs/assets/images/icon/folder-closed.png -> b6da75dbe4e903a74f25c22fe4bd824b.png
+2025-08-31 15:26:08,984 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/themes/docly/assets/img/folder-open.png -> 8aaaafa2a4214d6af61ca5448369e0ea.png
+2025-08-31 15:26:09,071 - INFO - Downloaded image: https://wiki.matriz.org/wp-content/uploads/2024/10/logo.svg -> 60c0a72b2a2090a5b7217076349ca832.svg
+2025-08-31 15:26:09,072 - ERROR - Error crawling https://wiki.matriz.org/knowledge-base/triz/: 'NoneType' object is not callable
+2025-08-31 15:26:10,077 - INFO - Post-processing HTML files to ensure all links are offline...
+2025-08-31 15:26:10,078 - INFO - HTML post-processing completed
+2025-08-31 15:26:10,079 - INFO - Summary saved to triz_content/crawl_summary.json
+2025-08-31 15:26:10,079 - INFO - Sitemap saved to triz_content/sitemap.html
+2025-08-31 15:26:10,079 - INFO - Crawling completed successfully!
+2025-08-31 15:26:10,079 - INFO - Total pages crawled: 0
+2025-08-31 15:26:10,079 - INFO - Total images downloaded: 7
+2025-08-31 15:26:10,079 - INFO - All internal links have been rewritten for offline navigation!

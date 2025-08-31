@@ -1,0 +1,11 @@
+{
+  "total_pages": 0,
+  "total_images": 7,
+  "crawl_timestamp": 1756671970.078353,
+  "base_url": "https://wiki.matriz.org",
+  "start_url": "https://wiki.matriz.org/knowledge-base/triz/",
+  "url_to_filename_mapping": {
+    "https://wiki.matriz.org/knowledge-base/triz/": "47e2790c53fd39599a7574264987b8e6.html"
+  },
+  "pages": []
+}

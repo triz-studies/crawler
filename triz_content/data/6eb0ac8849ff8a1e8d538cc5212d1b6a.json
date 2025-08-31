@@ -1,0 +1,1374 @@
+{
+  "url": "https://wiki.matriz.org/knowledge-base/triz/glossary-6146/",
+  "depth": 1,
+  "title": "GLOSSARY – TRIZ Knowledge Base",
+  "content": {
+    "title": "GLOSSARY – TRIZ Knowledge Base",
+    "headings": [
+      {
+        "level": 1,
+        "text": "GLOSSARY",
+        "id": ""
+      },
+      {
+        "level": 2,
+        "text": "TRIZ knowledge base",
+        "id": ""
+      },
+      {
+        "level": 2,
+        "text": "TRIZ knowledge base",
+        "id": ""
+      },
+      {
+        "level": 2,
+        "text": "A",
+        "id": ""
+      },
+      {
+        "level": 2,
+        "text": "B",
+        "id": ""
+      },
+      {
+        "level": 2,
+        "text": "C",
+        "id": ""
+      },
+      {
+        "level": 2,
+        "text": "D",
+        "id": ""
+      },
+      {
+        "level": 2,
+        "text": "E",
+        "id": ""
+      },
+      {
+        "level": 2,
+        "text": "F",
+        "id": ""
+      },
+      {
+        "level": 2,
+        "text": "H",
+        "id": ""
+      },
+      {
+        "level": 2,
+        "text": "I",
+        "id": ""
+      },
+      {
+        "level": 2,
+        "text": "K",
+        "id": ""
+      },
+      {
+        "level": 2,
+        "text": "M",
+        "id": ""
+      },
+      {
+        "level": 2,
+        "text": "N",
+        "id": ""
+      },
+      {
+        "level": 2,
+        "text": "O",
+        "id": ""
+      },
+      {
+        "level": 2,
+        "text": "P",
+        "id": ""
+      },
+      {
+        "level": 2,
+        "text": "S",
+        "id": ""
+      },
+      {
+        "level": 2,
+        "text": "T",
+        "id": ""
+      },
+      {
+        "level": 2,
+        "text": "U",
+        "id": ""
+      },
+      {
+        "level": 2,
+        "text": "V",
+        "id": ""
+      },
+      {
+        "level": 2,
+        "text": "W",
+        "id": ""
+      },
+      {
+        "level": 2,
+        "text": "X",
+        "id": ""
+      },
+      {
+        "level": 6,
+        "text": "CONTENTS",
+        "id": ""
+      }
+    ],
+    "paragraphs": [
+      "This following glossary provides key definitions aligned with the MATRIZ methodology.",
+      "Each term includes a link to an article with more detailed information on the topic.",
+      "Additional function: a useful function that acts on a component of the supersystem that is not a target component.",
+      "Algorithm for resolving physical contradictions: a problem-solving tool that provides a systematic access to the inventive principles for solving physical contradictions.",
+      "Alternative system: a competing system that has a complementary, to the base system, pair of advantages and disadvantages.",
+      "Altshuller matrix:go tocontradiction matrix.",
+      "ARIZ: a problem-solving tool that transforms a complex key problem into a well-defined model of the problem, which can be solved effectively using a wide spectrum of TRIZ tools.",
+      "Auxiliary function: a useful function that acts on a component of the analyzed engineering system.",
+      "Base system:a system to which features from the alternative system is transferred. The base system is the alternative system selected for improvement.",
+      "Basic function: a useful function directed toward a target component of the analyzed engineering system.",
+      "Cause – effect chain analysis (CECA):an analytical tool that identifies the key disadvantages of the engineering system. This is accomplished by building cause-effect chains of disadvantages that link the initial disadvantage with its fundamental causes.",
+      "Chain Su-Field: a combination of two or more Su-Fields where one substance participates in two Su-Fields.",
+      "Clone problems application: a problem- solving tool that generalizes the approach to solving one problem and applies the approach to solving another problem.",
+      "Competing system: an engineering system that performs the same or similar main function as the analyzed system.",
+      "Complex Su-Field: a complete Su-Field with an extra substance (often in the form of an additive) that readily responds to the existing field.",
+      "Component: a material object that constitutes a part of an engineering system or its supersystem.",
+      "Component analysis: a stage in Function Analysis that identifies components of the engineering system and its supersystem.",
+      "Component model: a set of components belonging to the analyzed engineering system and its supersystem.",
+      "Conflicting pair: (in ARIZ) a pair of components, the tool(s) and the product(s), interaction between which causes a conflict that prevents reaching the required result.",
+      "Contradiction matrix(Altshuller matrix):a matrix that provides a systematic access to the inventive principles for solving engineering contradictions.",
+      "Corrective function: a useful function that eliminates a defect.",
+      "Cost analysis: a step in function-cost analysis that identifies the absolute and relative costs of components that constitute a engineering system being analyzed.",
+      "Database of scientific effects: a problem-solving tool used to solve key problems, modeled as functions. It is a collection of effects and scientific phenomena from various fields (physics, chemistry, biology, etc.), organized in accordance with a function-oriented and resource-oriented taxonomy (rather than topics).",
+      "Defect: a material object (a substance or a field) that impairs performance of a useful function or performs some harmful function.",
+      "Double Su-Field: a Su-Field where two different fields provide interactions between the substances (one substance acts on the second substance with two fields).",
+      "Engineering contradiction(EC), also calledtechnical contradictions(TC): a parametric model of the problem in which an attempt to improve one parameter of the engineering system leads to worsening of another parameter.",
+      "Engineering system(technical system): a system that has been developed to perform a function.",
+      "Feature transfer: an analytical tool for improvement of an engineering system given (base system) by transferring certain features from the alternative system with the aim to combine the useful features in a single system.",
+      "Feature transfer problem: a key problem that must be resolved to realize feature transfer.",
+      "Field: an object without a rest mass that transfers interaction between substances.",
+      "Flow:a movement of substance, energy (field), and information within an engineering system.",
+      "Flow analysis: an analytical tool that identifies disadvantages in flows of energy, substances, and information in an engineering system.",
+      "Flow disadvantage: a disadvantage of the analyzed engineering system identified during flow analysis.",
+      "Function: an action performed by one material object (function carrier) to change or maintain a parameter of another material object (object of the function).",
+      "Function analysis(see also:function-cost analysis): an analytical tool that identifies functions, their characteristics, and the cost of the system and its supersystem components.",
+      "Function–cost diagram: the graph that presents function point score (F) of the system components against their cost (C).",
+      "Function disadvantage: a disadvantage of an engineering system identified during the function modeling.",
+      "Function model: a model of an engineering system that identifies and describes functions performed by the components of the system and its supersystem, their usefulness and performance level, and costs.",
+      "Function modeling: the stage in function analysis, during which a function model of the analyzed engineering system is built.",
+      "Function-oriented search(FOS): a problem-solving tool based upon identifying existing technologies worldwide, using function criteria.",
+      "Function rank: a dimensionless measure that determines the importance of the useful function.",
+      "Functionality:go tofunctionality index.",
+      "Functionality index(functionality): a dimensionless measure of the overall functional contribution of the component to the overall performance of the engineering system.",
+      "Harmful flow: a flow whose object (substance, energy, or information) performs a harmful function.",
+      "Harmful function: a function performed by a function carrier that results in an inacceptable change or inacceptable preservation of a parameter of an object of the function.",
+      "Harmful Su-Field: a Su-Field which represents a model of a problem, in which at least one interaction is harmful or excessive (excessive = normal + harmful excess).",
+      "Ideal final result (IFR): a model of the best solution to an inventive problem, whereby the problem is fully eliminated with minimal changes to the system and without any deterioration of system parameters.",
+      "Ideal system: a system with infinite value. It may have no components or associated costs, but still deliver the intended functionality; in other words – it may not exist, but its main function is still being performed.",
+      "Ideality: the ratio of the total benefits provided by the system to the sum of all payment factors associated with it. Payment factors include not only direct costs but also required space, environmental damage, maintenance, etc.",
+      "Incomplete Su-Field:a Su-Field representing a model of a problem of lacking one substance, or a field, or substance and a field.",
+      "Inert system:go toneutral system.",
+      "Initial disadvantage: a disadvantage in the analyzed engineering system, the elimination of which is the goal of a project. The initial disadvantage is formulated as an inverted project goal.",
+      "Innovative benchmarking: an analytical tool that identifies the best engineering system for improvement and engineering system candidates for feature transfer.",
+      "Insufficient Su-Field:a Su-Field representing a problem model, which is complete but does not work.",
+      "Interaction: a physical touch between components of the engineeging system and/or components of its supersystem.",
+      "Interaction analysis: a stage of function analysis of devices that identifies interactions between the components included into the component model.",
+      "Interaction matrix: a table showing interactions among components of the analyzed engineering system and its supersystem. It is result of the interaction analysis.",
+      "Inventive principle: an abstract model of a solution that provides generalized recommendations for modifying the system to solve the problem formulated as the contradiction.",
+      "Key disadvantage: a disadvantage selected to be eliminated to achieve the goal of the project. Usually, key disadvantages appear at the root of cause-effect chains.",
+      "Key problem:a problem that has been selected for solving to achieve the goal of the project.",
+      "Main function: the function for which the engineering system was designed.",
+      "Main parameter of value (MPV): a key attribute, parameter, or feature of a product that is important for the purchasing decision.",
+      "MATChEM: an acronym representing six types of fields used in TRIZ – mechanical, acoustic, thermal, chemical, electrical, and magnetic. The last two letters (EM) also stand for electromagnetic.",
+      "Measurement function: a useful function that reveals information about components.",
+      "Measurement Su-Field: a special type of a Su-Field which is used to present models of inventive problems where measurement or detection is required in terms of substance-field analysis. Its uniqueness lies in the fact that it is the only model with 2 fields and 1 substance (input field > substance > output field).",
+      "Mini-problem: a problem whose solution is limited by constraints against significant changes to the analyzed engineering system.",
+      "Neutral flow: a flow that has an irrelevant or insignificant influence on the engineering system.",
+      "Neutral system(inert system): a system that does not have the disadvantage of the base system (it is its advantage), but it also does not perform the desired main function (does not work) that is considered to be its disadvantage.",
+      "Operating time: (in ARIZ) a time interval, when one of the contradiction requirements must be met.",
+      "Operating zone: (in ARIZ) a physical space, where one of the contradiction requirements must be met.",
+      "Operation: a set of functions within a technological process grouped because of certain considerations.",
+      "Partial trimming: redistributing some useful functions of a system component to other components, while leaving the component in the system for performing remaining functions.",
+      "Physical contradiction: a parametric model of the problem that emerges when two justified contradictory demands are placed upon a single parameter of an object to provide the required result.",
+      "Product: (in ARIZ) the element that needs to be processed (manufactured, moved, changed, improved, protected from a harmful influence, revealed, measured etc.) according to the problem conditions",
+      "Productive function: a useful function that irreversibly (permanently) changes a parameter of its object.",
+      "Providing function: a useful function that is necessary for the performance of another useful function.",
+      "S-curve: an S-shaped curve that represents the typical dependence of a main parameter of value of an evolving engineering system on time",
+      "S-curve analysis: an analytical tool based on the trend of S-curve evolution that determines where an engineering system is in its development and what steps should be taken to improve it.",
+      "Standard inventive solutions (SIS): a set of 76 typical solution models, to typical problem models that are expressed in the form of substance-field (Su-Field) models.",
+      "Substance: an object with a rest mass.",
+      "Substance-field analysis: a part of standard inventive solutions application that models a problem in the form of a substance-fields model.",
+      "Substance-field model (Su-Field model, Su-Field): an abstract model of a problem and potential solutions (when possible) formulated in terms of interactions between substances and fields.",
+      "Supersystem: a system that contains the analyzed engineering system as a component.",
+      "Supporting function: a useful function that temporarily changes a parameter of the product.",
+      "Target component: an object of the main function of the engineering system.",
+      "Technical contradiction:go toengineering contradiction.",
+      "Technical system:go toengineering system.",
+      "Technological process: a process that uses material objects, such as raw material, labour, energy, and machinery, to create finished products.",
+      "Theory of inventive problems solving, TRIZ(ru:теория решения изобретательских задач): a discipline of applied sciences that deals with directions of development and methods for improvement of engineering systems.",
+      "Tool: (in ARIZ) an object directly interacting (conflicting) with the product in contradictions identified in part 1 of ARIZ.",
+      "Transport function: a useful function that changes a position of its object in space.",
+      "Trend of decreasing human involvement: trend of engineering system evolution according to which as an engineering system evolves, the number of engineering system functions performed by humans decreases.",
+      "Trend of flow enhancement: trend of engineering system evolution according to which as an engineering system evolves, flow rates of substances, energy, or information increase, and/or the flows are better utilized.",
+      "Trend of increasing completeness of system components: a trend of engineering system evolution according to which as an engineering system evolves, it acquires the following typical function blocks: operating agent, transmission, energy source, and control system.",
+      "Trend of increasing controllability: trend of engineering system evolution according to which as engineering systems evolve, they develop more ways in which they can be controlled.",
+      "Trend of increasing coordination: trend of engineering system evolution according to which as an engineering system evolves, characteristics of the components of the engineering system become more coordinated with each other and with the supersystem.",
+      "Trend of increasing degree of trimming: trend of engineering system evolution according to which as an engineering system evolves, system elements (components or operations) are eliminated without impairing the functionality of the system, and possibly improving it.",
+      "Trend of increasing dynamization: a trend of engineering system evolution according to which the engineering system and its components evolve towards becoming more flexible, dynamic, and adaptable – having more degrees of freedom.",
+      "Trend of increasing value: a trend of engineering system evolution according to which as an engineering system evolves its value always increases.",
+      "Trend of S-curve evolution: a trend of engineering system evolution located at the top position in the trends hierarchy. According to it, as an engineering system evolves, the evolution of each main parameter of value (MPV) describes an S-shaped curve in time.",
+      "Trend of transition to supersystem: a trend of engineering system evolution which states that as an engineering system evolves, it is integrated with supersystem components.",
+      "Trend of uneven development of system components: trend of engineering system evolution according to which as an engineering system evolves, development is concentrated on the operating agent first, and on the rest of the system later.",
+      "Trends of engineering system evolution(TESE): statistically proven or empirically derived directions of engineering system development that describe the natural transition of engineering systems from one state to another.",
+      "Trimming: an analytical tool for improving an engineering system by removing (trimming) certain components and redistributing their useful functions among the remaining system or its supersystem components, while preserving quality and performance of the system.",
+      "Trimming model: a function model of an improved engineering system developed through trimming.",
+      "Trimming problem: a problem that must be resolved to realize the trimming model.",
+      "Trimming rule: an option for eliminating a component of an engineering system by either eliminating its useful functions or redistributing them to other system or supersystem components.",
+      "Typical parameters: a limited set of the pre-defined generalized parameters that typically need improvement in the engineering system, used in the contradiction (Altshuller) matrix.",
+      "Useful flow: a flow whose object (substance, energy, or information) performs a useful function or is an object of a useful function.",
+      "Useful function: a function performed by a function carrier that results in a positive (required) change or preservation a parameter of an object of the function.",
+      "Value: the ratio of a normalized sum of component/system function points over the sum of its costs.",
+      "Value analysis: an analytical tool that compares relative functionality and relative cost of the system components.",
+      "Vicious circle: a situation in CECA when a disadvantage causes new disadvantages that lead to the original disadvantage to occur again.",
+      "Wasted flow: a flow that is characterized by losses of substance, energy, or information.",
+      "X-factor: (in ARIZ) any change in the engineering system (e.g., change in its components, parameters, etc.) that should be incorporated into the system in order to solve a problem.",
+      "Powered ByEazyDocs",
+      "This text is open access and distributed under the terms of the Creative Commons, which permits use, distribution, and reproduction in any medium, provided the original source is credited.",
+      "© 2023 All Rights Reserved byMATRIZ/Terms and Conditions/Privacy Policy"
+    ],
+    "lists": [
+      {
+        "type": "ul",
+        "items": [
+          "Home",
+          "Knowledge base",
+          "Contradictions matrix",
+          "Contact"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Home",
+          "Knowledge base",
+          "Contradictions matrix",
+          "Contact"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Problem-identification toolsFunction-cost analysisFunction analysisComponent analysisComponentEngineering systemComponent modelSupersystemInteraction analysisInteractionInteraction matrixFunction modelingFunctionMain functionTarget componentFunction disadvantageFunction modelFunction rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport functionValue analysisValueIdeal systemFunctionality indexCost analysisFunction-cost diagramFlow analysisFlow disadvantageFlowCause-effect chain analysisKey disadvantageInitial disadvantageVicious circleTrimmingTrimming rulesTrimming modelPartial trimmingTrimming problemFeature transferNeutral system (Inert system)Base systemAlternative systemCompeting systemFeature transfer problemKey problemS-curve analysisInnovative benchmarking",
+          "Function-cost analysisFunction analysisComponent analysisComponentEngineering systemComponent modelSupersystemInteraction analysisInteractionInteraction matrixFunction modelingFunctionMain functionTarget componentFunction disadvantageFunction modelFunction rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport functionValue analysisValueIdeal systemFunctionality indexCost analysisFunction-cost diagram",
+          "Function analysisComponent analysisComponentEngineering systemComponent modelSupersystemInteraction analysisInteractionInteraction matrixFunction modelingFunctionMain functionTarget componentFunction disadvantageFunction modelFunction rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport functionValue analysisValueIdeal systemFunctionality index",
+          "Component analysisComponentEngineering systemComponent modelSupersystem",
+          "Component",
+          "Engineering system",
+          "Component model",
+          "Supersystem",
+          "Interaction analysisInteractionInteraction matrix",
+          "Interaction",
+          "Interaction matrix",
+          "Function modelingFunctionMain functionTarget componentFunction disadvantageFunction modelFunction rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport function",
+          "Function",
+          "Main functionTarget component",
+          "Target component",
+          "Function disadvantage",
+          "Function model",
+          "Function rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport function",
+          "Basic function",
+          "Additional function",
+          "Auxiliary function",
+          "Corrective functionDefect",
+          "Defect",
+          "Productive function",
+          "Providing functionMeasurement functionSupporting functionTransport function",
+          "Measurement function",
+          "Supporting function",
+          "Transport function",
+          "Value analysisValueIdeal systemFunctionality index",
+          "ValueIdeal system",
+          "Ideal system",
+          "Functionality index",
+          "Cost analysis",
+          "Function-cost diagram",
+          "Flow analysisFlow disadvantageFlow",
+          "Flow disadvantage",
+          "Flow",
+          "Cause-effect chain analysisKey disadvantageInitial disadvantageVicious circle",
+          "Key disadvantage",
+          "Initial disadvantage",
+          "Vicious circle",
+          "TrimmingTrimming rulesTrimming modelPartial trimmingTrimming problem",
+          "Trimming rules",
+          "Trimming model",
+          "Partial trimming",
+          "Trimming problem",
+          "Feature transferNeutral system (Inert system)Base systemAlternative systemCompeting systemFeature transfer problem",
+          "Neutral system (Inert system)",
+          "Base system",
+          "Alternative system",
+          "Competing system",
+          "Feature transfer problem",
+          "Key problem",
+          "S-curve analysis",
+          "Innovative benchmarking",
+          "Problem-solving toolsSubstance-field modelingStandard inventive solutions (SIS)Substance-field analysisSubstance-field modelContradictionsEngineering (technical) contradictionContradiction matrixTypical parametersPhysical contradictionAlgorithm for resolving physical contradictionsInventive principleARIZARIZ Block 1: Restructuring the original problemConflicting pairMini-problemOperating timeOperating zoneProductToolX-factorIdeal final resultFunction-oriented search (FOS)Clone problems applicationDatabase of scientific effects",
+          "Substance-field modelingStandard inventive solutions (SIS)Substance-field analysisSubstance-field model",
+          "Standard inventive solutions (SIS)Substance-field analysisSubstance-field model",
+          "Substance-field analysis",
+          "Substance-field model",
+          "ContradictionsEngineering (technical) contradictionContradiction matrixTypical parametersPhysical contradictionAlgorithm for resolving physical contradictionsInventive principle",
+          "Engineering (technical) contradictionContradiction matrixTypical parameters",
+          "Contradiction matrixTypical parameters",
+          "Typical parameters",
+          "Physical contradictionAlgorithm for resolving physical contradictions",
+          "Algorithm for resolving physical contradictions",
+          "Inventive principle",
+          "ARIZARIZ Block 1: Restructuring the original problemConflicting pairMini-problemOperating timeOperating zoneProductToolX-factorIdeal final result",
+          "ARIZ Block 1: Restructuring the original problem",
+          "Conflicting pair",
+          "Mini-problem",
+          "Operating time",
+          "Operating zone",
+          "Product",
+          "Tool",
+          "X-factor",
+          "Ideal final result",
+          "Function-oriented search (FOS)",
+          "Clone problems application",
+          "Database of scientific effects",
+          "Concept substantiation tools",
+          "Trends of engineering systems evolution (TESE)Trend of decreasing human involvementTrend of flow enhancementTrend of increasing completeness of system componentsTrend of increasing controllabilityTrend of increasing coordinationTrend of increasing degree of trimmingTrend of increasing dynamizationTrend of increasing valueTrend of S-curve evolutionMain parameter of valueS-curveTrend of transition to the supersystemTrend of uneven development of system components",
+          "Trend of decreasing human involvement",
+          "Trend of flow enhancement",
+          "Trend of increasing completeness of system components",
+          "Trend of increasing controllability",
+          "Trend of increasing coordination",
+          "Trend of increasing degree of trimming",
+          "Trend of increasing dynamization",
+          "Trend of increasing value",
+          "Trend of S-curve evolutionMain parameter of valueS-curve",
+          "Main parameter of value",
+          "S-curve",
+          "Trend of transition to the supersystem",
+          "Trend of uneven development of system components",
+          "GLOSSARY",
+          "Resources in TRIZ"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Function-cost analysisFunction analysisComponent analysisComponentEngineering systemComponent modelSupersystemInteraction analysisInteractionInteraction matrixFunction modelingFunctionMain functionTarget componentFunction disadvantageFunction modelFunction rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport functionValue analysisValueIdeal systemFunctionality indexCost analysisFunction-cost diagram",
+          "Function analysisComponent analysisComponentEngineering systemComponent modelSupersystemInteraction analysisInteractionInteraction matrixFunction modelingFunctionMain functionTarget componentFunction disadvantageFunction modelFunction rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport functionValue analysisValueIdeal systemFunctionality index",
+          "Component analysisComponentEngineering systemComponent modelSupersystem",
+          "Component",
+          "Engineering system",
+          "Component model",
+          "Supersystem",
+          "Interaction analysisInteractionInteraction matrix",
+          "Interaction",
+          "Interaction matrix",
+          "Function modelingFunctionMain functionTarget componentFunction disadvantageFunction modelFunction rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport function",
+          "Function",
+          "Main functionTarget component",
+          "Target component",
+          "Function disadvantage",
+          "Function model",
+          "Function rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport function",
+          "Basic function",
+          "Additional function",
+          "Auxiliary function",
+          "Corrective functionDefect",
+          "Defect",
+          "Productive function",
+          "Providing functionMeasurement functionSupporting functionTransport function",
+          "Measurement function",
+          "Supporting function",
+          "Transport function",
+          "Value analysisValueIdeal systemFunctionality index",
+          "ValueIdeal system",
+          "Ideal system",
+          "Functionality index",
+          "Cost analysis",
+          "Function-cost diagram",
+          "Flow analysisFlow disadvantageFlow",
+          "Flow disadvantage",
+          "Flow",
+          "Cause-effect chain analysisKey disadvantageInitial disadvantageVicious circle",
+          "Key disadvantage",
+          "Initial disadvantage",
+          "Vicious circle",
+          "TrimmingTrimming rulesTrimming modelPartial trimmingTrimming problem",
+          "Trimming rules",
+          "Trimming model",
+          "Partial trimming",
+          "Trimming problem",
+          "Feature transferNeutral system (Inert system)Base systemAlternative systemCompeting systemFeature transfer problem",
+          "Neutral system (Inert system)",
+          "Base system",
+          "Alternative system",
+          "Competing system",
+          "Feature transfer problem",
+          "Key problem",
+          "S-curve analysis",
+          "Innovative benchmarking"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Function analysisComponent analysisComponentEngineering systemComponent modelSupersystemInteraction analysisInteractionInteraction matrixFunction modelingFunctionMain functionTarget componentFunction disadvantageFunction modelFunction rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport functionValue analysisValueIdeal systemFunctionality index",
+          "Component analysisComponentEngineering systemComponent modelSupersystem",
+          "Component",
+          "Engineering system",
+          "Component model",
+          "Supersystem",
+          "Interaction analysisInteractionInteraction matrix",
+          "Interaction",
+          "Interaction matrix",
+          "Function modelingFunctionMain functionTarget componentFunction disadvantageFunction modelFunction rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport function",
+          "Function",
+          "Main functionTarget component",
+          "Target component",
+          "Function disadvantage",
+          "Function model",
+          "Function rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport function",
+          "Basic function",
+          "Additional function",
+          "Auxiliary function",
+          "Corrective functionDefect",
+          "Defect",
+          "Productive function",
+          "Providing functionMeasurement functionSupporting functionTransport function",
+          "Measurement function",
+          "Supporting function",
+          "Transport function",
+          "Value analysisValueIdeal systemFunctionality index",
+          "ValueIdeal system",
+          "Ideal system",
+          "Functionality index",
+          "Cost analysis",
+          "Function-cost diagram"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Component analysisComponentEngineering systemComponent modelSupersystem",
+          "Component",
+          "Engineering system",
+          "Component model",
+          "Supersystem",
+          "Interaction analysisInteractionInteraction matrix",
+          "Interaction",
+          "Interaction matrix",
+          "Function modelingFunctionMain functionTarget componentFunction disadvantageFunction modelFunction rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport function",
+          "Function",
+          "Main functionTarget component",
+          "Target component",
+          "Function disadvantage",
+          "Function model",
+          "Function rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport function",
+          "Basic function",
+          "Additional function",
+          "Auxiliary function",
+          "Corrective functionDefect",
+          "Defect",
+          "Productive function",
+          "Providing functionMeasurement functionSupporting functionTransport function",
+          "Measurement function",
+          "Supporting function",
+          "Transport function",
+          "Value analysisValueIdeal systemFunctionality index",
+          "ValueIdeal system",
+          "Ideal system",
+          "Functionality index"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Component",
+          "Engineering system",
+          "Component model",
+          "Supersystem"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Interaction",
+          "Interaction matrix"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Function",
+          "Main functionTarget component",
+          "Target component",
+          "Function disadvantage",
+          "Function model",
+          "Function rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport function",
+          "Basic function",
+          "Additional function",
+          "Auxiliary function",
+          "Corrective functionDefect",
+          "Defect",
+          "Productive function",
+          "Providing functionMeasurement functionSupporting functionTransport function",
+          "Measurement function",
+          "Supporting function",
+          "Transport function"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Target component"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Basic function",
+          "Additional function",
+          "Auxiliary function",
+          "Corrective functionDefect",
+          "Defect",
+          "Productive function",
+          "Providing functionMeasurement functionSupporting functionTransport function",
+          "Measurement function",
+          "Supporting function",
+          "Transport function"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Defect"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Measurement function",
+          "Supporting function",
+          "Transport function"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "ValueIdeal system",
+          "Ideal system",
+          "Functionality index"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Ideal system"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Flow disadvantage",
+          "Flow"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Key disadvantage",
+          "Initial disadvantage",
+          "Vicious circle"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Trimming rules",
+          "Trimming model",
+          "Partial trimming",
+          "Trimming problem"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Neutral system (Inert system)",
+          "Base system",
+          "Alternative system",
+          "Competing system",
+          "Feature transfer problem"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Substance-field modelingStandard inventive solutions (SIS)Substance-field analysisSubstance-field model",
+          "Standard inventive solutions (SIS)Substance-field analysisSubstance-field model",
+          "Substance-field analysis",
+          "Substance-field model",
+          "ContradictionsEngineering (technical) contradictionContradiction matrixTypical parametersPhysical contradictionAlgorithm for resolving physical contradictionsInventive principle",
+          "Engineering (technical) contradictionContradiction matrixTypical parameters",
+          "Contradiction matrixTypical parameters",
+          "Typical parameters",
+          "Physical contradictionAlgorithm for resolving physical contradictions",
+          "Algorithm for resolving physical contradictions",
+          "Inventive principle",
+          "ARIZARIZ Block 1: Restructuring the original problemConflicting pairMini-problemOperating timeOperating zoneProductToolX-factorIdeal final result",
+          "ARIZ Block 1: Restructuring the original problem",
+          "Conflicting pair",
+          "Mini-problem",
+          "Operating time",
+          "Operating zone",
+          "Product",
+          "Tool",
+          "X-factor",
+          "Ideal final result",
+          "Function-oriented search (FOS)",
+          "Clone problems application",
+          "Database of scientific effects"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Standard inventive solutions (SIS)Substance-field analysisSubstance-field model",
+          "Substance-field analysis",
+          "Substance-field model"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Substance-field analysis",
+          "Substance-field model"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Engineering (technical) contradictionContradiction matrixTypical parameters",
+          "Contradiction matrixTypical parameters",
+          "Typical parameters",
+          "Physical contradictionAlgorithm for resolving physical contradictions",
+          "Algorithm for resolving physical contradictions",
+          "Inventive principle"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Contradiction matrixTypical parameters",
+          "Typical parameters"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Typical parameters"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Algorithm for resolving physical contradictions"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "ARIZ Block 1: Restructuring the original problem",
+          "Conflicting pair",
+          "Mini-problem",
+          "Operating time",
+          "Operating zone",
+          "Product",
+          "Tool",
+          "X-factor",
+          "Ideal final result"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Trend of decreasing human involvement",
+          "Trend of flow enhancement",
+          "Trend of increasing completeness of system components",
+          "Trend of increasing controllability",
+          "Trend of increasing coordination",
+          "Trend of increasing degree of trimming",
+          "Trend of increasing dynamization",
+          "Trend of increasing value",
+          "Trend of S-curve evolutionMain parameter of valueS-curve",
+          "Main parameter of value",
+          "S-curve",
+          "Trend of transition to the supersystem",
+          "Trend of uneven development of system components"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Main parameter of value",
+          "S-curve"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "TRIZ",
+          "Contradiction Matrix",
+          "Glossary"
+        ]
+      },
+      {
+        "type": "ol",
+        "items": [
+          "Home",
+          "Docs",
+          "TRIZ knowledge base",
+          "GLOSSARY"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Problem-identification toolsFunction-cost analysisFunction analysisComponent analysisComponentEngineering systemComponent modelSupersystemInteraction analysisInteractionInteraction matrixFunction modelingFunctionMain functionTarget componentFunction disadvantageFunction modelFunction rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport functionValue analysisValueIdeal systemFunctionality indexCost analysisFunction-cost diagramFlow analysisFlow disadvantageFlowCause-effect chain analysisKey disadvantageInitial disadvantageVicious circleTrimmingTrimming rulesTrimming modelPartial trimmingTrimming problemFeature transferNeutral system (Inert system)Base systemAlternative systemCompeting systemFeature transfer problemKey problemS-curve analysisInnovative benchmarking",
+          "Function-cost analysisFunction analysisComponent analysisComponentEngineering systemComponent modelSupersystemInteraction analysisInteractionInteraction matrixFunction modelingFunctionMain functionTarget componentFunction disadvantageFunction modelFunction rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport functionValue analysisValueIdeal systemFunctionality indexCost analysisFunction-cost diagram",
+          "Function analysisComponent analysisComponentEngineering systemComponent modelSupersystemInteraction analysisInteractionInteraction matrixFunction modelingFunctionMain functionTarget componentFunction disadvantageFunction modelFunction rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport functionValue analysisValueIdeal systemFunctionality index",
+          "Component analysisComponentEngineering systemComponent modelSupersystem",
+          "Component",
+          "Engineering system",
+          "Component model",
+          "Supersystem",
+          "Interaction analysisInteractionInteraction matrix",
+          "Interaction",
+          "Interaction matrix",
+          "Function modelingFunctionMain functionTarget componentFunction disadvantageFunction modelFunction rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport function",
+          "Function",
+          "Main functionTarget component",
+          "Target component",
+          "Function disadvantage",
+          "Function model",
+          "Function rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport function",
+          "Basic function",
+          "Additional function",
+          "Auxiliary function",
+          "Corrective functionDefect",
+          "Defect",
+          "Productive function",
+          "Providing functionMeasurement functionSupporting functionTransport function",
+          "Measurement function",
+          "Supporting function",
+          "Transport function",
+          "Value analysisValueIdeal systemFunctionality index",
+          "ValueIdeal system",
+          "Ideal system",
+          "Functionality index",
+          "Cost analysis",
+          "Function-cost diagram",
+          "Flow analysisFlow disadvantageFlow",
+          "Flow disadvantage",
+          "Flow",
+          "Cause-effect chain analysisKey disadvantageInitial disadvantageVicious circle",
+          "Key disadvantage",
+          "Initial disadvantage",
+          "Vicious circle",
+          "TrimmingTrimming rulesTrimming modelPartial trimmingTrimming problem",
+          "Trimming rules",
+          "Trimming model",
+          "Partial trimming",
+          "Trimming problem",
+          "Feature transferNeutral system (Inert system)Base systemAlternative systemCompeting systemFeature transfer problem",
+          "Neutral system (Inert system)",
+          "Base system",
+          "Alternative system",
+          "Competing system",
+          "Feature transfer problem",
+          "Key problem",
+          "S-curve analysis",
+          "Innovative benchmarking",
+          "Problem-solving toolsSubstance-field modelingStandard inventive solutions (SIS)Substance-field analysisSubstance-field modelContradictionsEngineering (technical) contradictionContradiction matrixTypical parametersPhysical contradictionAlgorithm for resolving physical contradictionsInventive principleARIZARIZ Block 1: Restructuring the original problemConflicting pairMini-problemOperating timeOperating zoneProductToolX-factorIdeal final resultFunction-oriented search (FOS)Clone problems applicationDatabase of scientific effects",
+          "Substance-field modelingStandard inventive solutions (SIS)Substance-field analysisSubstance-field model",
+          "Standard inventive solutions (SIS)Substance-field analysisSubstance-field model",
+          "Substance-field analysis",
+          "Substance-field model",
+          "ContradictionsEngineering (technical) contradictionContradiction matrixTypical parametersPhysical contradictionAlgorithm for resolving physical contradictionsInventive principle",
+          "Engineering (technical) contradictionContradiction matrixTypical parameters",
+          "Contradiction matrixTypical parameters",
+          "Typical parameters",
+          "Physical contradictionAlgorithm for resolving physical contradictions",
+          "Algorithm for resolving physical contradictions",
+          "Inventive principle",
+          "ARIZARIZ Block 1: Restructuring the original problemConflicting pairMini-problemOperating timeOperating zoneProductToolX-factorIdeal final result",
+          "ARIZ Block 1: Restructuring the original problem",
+          "Conflicting pair",
+          "Mini-problem",
+          "Operating time",
+          "Operating zone",
+          "Product",
+          "Tool",
+          "X-factor",
+          "Ideal final result",
+          "Function-oriented search (FOS)",
+          "Clone problems application",
+          "Database of scientific effects",
+          "Concept substantiation tools",
+          "Trends of engineering systems evolution (TESE)Trend of decreasing human involvementTrend of flow enhancementTrend of increasing completeness of system componentsTrend of increasing controllabilityTrend of increasing coordinationTrend of increasing degree of trimmingTrend of increasing dynamizationTrend of increasing valueTrend of S-curve evolutionMain parameter of valueS-curveTrend of transition to the supersystemTrend of uneven development of system components",
+          "Trend of decreasing human involvement",
+          "Trend of flow enhancement",
+          "Trend of increasing completeness of system components",
+          "Trend of increasing controllability",
+          "Trend of increasing coordination",
+          "Trend of increasing degree of trimming",
+          "Trend of increasing dynamization",
+          "Trend of increasing value",
+          "Trend of S-curve evolutionMain parameter of valueS-curve",
+          "Main parameter of value",
+          "S-curve",
+          "Trend of transition to the supersystem",
+          "Trend of uneven development of system components",
+          "GLOSSARY",
+          "Resources in TRIZ"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Function-cost analysisFunction analysisComponent analysisComponentEngineering systemComponent modelSupersystemInteraction analysisInteractionInteraction matrixFunction modelingFunctionMain functionTarget componentFunction disadvantageFunction modelFunction rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport functionValue analysisValueIdeal systemFunctionality indexCost analysisFunction-cost diagram",
+          "Function analysisComponent analysisComponentEngineering systemComponent modelSupersystemInteraction analysisInteractionInteraction matrixFunction modelingFunctionMain functionTarget componentFunction disadvantageFunction modelFunction rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport functionValue analysisValueIdeal systemFunctionality index",
+          "Component analysisComponentEngineering systemComponent modelSupersystem",
+          "Component",
+          "Engineering system",
+          "Component model",
+          "Supersystem",
+          "Interaction analysisInteractionInteraction matrix",
+          "Interaction",
+          "Interaction matrix",
+          "Function modelingFunctionMain functionTarget componentFunction disadvantageFunction modelFunction rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport function",
+          "Function",
+          "Main functionTarget component",
+          "Target component",
+          "Function disadvantage",
+          "Function model",
+          "Function rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport function",
+          "Basic function",
+          "Additional function",
+          "Auxiliary function",
+          "Corrective functionDefect",
+          "Defect",
+          "Productive function",
+          "Providing functionMeasurement functionSupporting functionTransport function",
+          "Measurement function",
+          "Supporting function",
+          "Transport function",
+          "Value analysisValueIdeal systemFunctionality index",
+          "ValueIdeal system",
+          "Ideal system",
+          "Functionality index",
+          "Cost analysis",
+          "Function-cost diagram",
+          "Flow analysisFlow disadvantageFlow",
+          "Flow disadvantage",
+          "Flow",
+          "Cause-effect chain analysisKey disadvantageInitial disadvantageVicious circle",
+          "Key disadvantage",
+          "Initial disadvantage",
+          "Vicious circle",
+          "TrimmingTrimming rulesTrimming modelPartial trimmingTrimming problem",
+          "Trimming rules",
+          "Trimming model",
+          "Partial trimming",
+          "Trimming problem",
+          "Feature transferNeutral system (Inert system)Base systemAlternative systemCompeting systemFeature transfer problem",
+          "Neutral system (Inert system)",
+          "Base system",
+          "Alternative system",
+          "Competing system",
+          "Feature transfer problem",
+          "Key problem",
+          "S-curve analysis",
+          "Innovative benchmarking"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Function analysisComponent analysisComponentEngineering systemComponent modelSupersystemInteraction analysisInteractionInteraction matrixFunction modelingFunctionMain functionTarget componentFunction disadvantageFunction modelFunction rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport functionValue analysisValueIdeal systemFunctionality index",
+          "Component analysisComponentEngineering systemComponent modelSupersystem",
+          "Component",
+          "Engineering system",
+          "Component model",
+          "Supersystem",
+          "Interaction analysisInteractionInteraction matrix",
+          "Interaction",
+          "Interaction matrix",
+          "Function modelingFunctionMain functionTarget componentFunction disadvantageFunction modelFunction rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport function",
+          "Function",
+          "Main functionTarget component",
+          "Target component",
+          "Function disadvantage",
+          "Function model",
+          "Function rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport function",
+          "Basic function",
+          "Additional function",
+          "Auxiliary function",
+          "Corrective functionDefect",
+          "Defect",
+          "Productive function",
+          "Providing functionMeasurement functionSupporting functionTransport function",
+          "Measurement function",
+          "Supporting function",
+          "Transport function",
+          "Value analysisValueIdeal systemFunctionality index",
+          "ValueIdeal system",
+          "Ideal system",
+          "Functionality index",
+          "Cost analysis",
+          "Function-cost diagram"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Component analysisComponentEngineering systemComponent modelSupersystem",
+          "Component",
+          "Engineering system",
+          "Component model",
+          "Supersystem",
+          "Interaction analysisInteractionInteraction matrix",
+          "Interaction",
+          "Interaction matrix",
+          "Function modelingFunctionMain functionTarget componentFunction disadvantageFunction modelFunction rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport function",
+          "Function",
+          "Main functionTarget component",
+          "Target component",
+          "Function disadvantage",
+          "Function model",
+          "Function rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport function",
+          "Basic function",
+          "Additional function",
+          "Auxiliary function",
+          "Corrective functionDefect",
+          "Defect",
+          "Productive function",
+          "Providing functionMeasurement functionSupporting functionTransport function",
+          "Measurement function",
+          "Supporting function",
+          "Transport function",
+          "Value analysisValueIdeal systemFunctionality index",
+          "ValueIdeal system",
+          "Ideal system",
+          "Functionality index"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Component",
+          "Engineering system",
+          "Component model",
+          "Supersystem"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Interaction",
+          "Interaction matrix"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Function",
+          "Main functionTarget component",
+          "Target component",
+          "Function disadvantage",
+          "Function model",
+          "Function rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport function",
+          "Basic function",
+          "Additional function",
+          "Auxiliary function",
+          "Corrective functionDefect",
+          "Defect",
+          "Productive function",
+          "Providing functionMeasurement functionSupporting functionTransport function",
+          "Measurement function",
+          "Supporting function",
+          "Transport function"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Target component"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Basic function",
+          "Additional function",
+          "Auxiliary function",
+          "Corrective functionDefect",
+          "Defect",
+          "Productive function",
+          "Providing functionMeasurement functionSupporting functionTransport function",
+          "Measurement function",
+          "Supporting function",
+          "Transport function"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Defect"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Measurement function",
+          "Supporting function",
+          "Transport function"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "ValueIdeal system",
+          "Ideal system",
+          "Functionality index"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Ideal system"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Flow disadvantage",
+          "Flow"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Key disadvantage",
+          "Initial disadvantage",
+          "Vicious circle"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Trimming rules",
+          "Trimming model",
+          "Partial trimming",
+          "Trimming problem"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Neutral system (Inert system)",
+          "Base system",
+          "Alternative system",
+          "Competing system",
+          "Feature transfer problem"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Substance-field modelingStandard inventive solutions (SIS)Substance-field analysisSubstance-field model",
+          "Standard inventive solutions (SIS)Substance-field analysisSubstance-field model",
+          "Substance-field analysis",
+          "Substance-field model",
+          "ContradictionsEngineering (technical) contradictionContradiction matrixTypical parametersPhysical contradictionAlgorithm for resolving physical contradictionsInventive principle",
+          "Engineering (technical) contradictionContradiction matrixTypical parameters",
+          "Contradiction matrixTypical parameters",
+          "Typical parameters",
+          "Physical contradictionAlgorithm for resolving physical contradictions",
+          "Algorithm for resolving physical contradictions",
+          "Inventive principle",
+          "ARIZARIZ Block 1: Restructuring the original problemConflicting pairMini-problemOperating timeOperating zoneProductToolX-factorIdeal final result",
+          "ARIZ Block 1: Restructuring the original problem",
+          "Conflicting pair",
+          "Mini-problem",
+          "Operating time",
+          "Operating zone",
+          "Product",
+          "Tool",
+          "X-factor",
+          "Ideal final result",
+          "Function-oriented search (FOS)",
+          "Clone problems application",
+          "Database of scientific effects"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Standard inventive solutions (SIS)Substance-field analysisSubstance-field model",
+          "Substance-field analysis",
+          "Substance-field model"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Substance-field analysis",
+          "Substance-field model"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Engineering (technical) contradictionContradiction matrixTypical parameters",
+          "Contradiction matrixTypical parameters",
+          "Typical parameters",
+          "Physical contradictionAlgorithm for resolving physical contradictions",
+          "Algorithm for resolving physical contradictions",
+          "Inventive principle"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Contradiction matrixTypical parameters",
+          "Typical parameters"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Typical parameters"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Algorithm for resolving physical contradictions"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "ARIZ Block 1: Restructuring the original problem",
+          "Conflicting pair",
+          "Mini-problem",
+          "Operating time",
+          "Operating zone",
+          "Product",
+          "Tool",
+          "X-factor",
+          "Ideal final result"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Trend of decreasing human involvement",
+          "Trend of flow enhancement",
+          "Trend of increasing completeness of system components",
+          "Trend of increasing controllability",
+          "Trend of increasing coordination",
+          "Trend of increasing degree of trimming",
+          "Trend of increasing dynamization",
+          "Trend of increasing value",
+          "Trend of S-curve evolutionMain parameter of valueS-curve",
+          "Main parameter of value",
+          "S-curve",
+          "Trend of transition to the supersystem",
+          "Trend of uneven development of system components"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Main parameter of value",
+          "S-curve"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          ""
+        ]
+      }
+    ],
+    "tables": [],
+    "metadata": {
+      "docly-version": "2.1.3",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "robots": "max-image-preview:large",
+      "generator": "Elementor 3.24.7; features: e_font_icon_svg, additional_custom_breakpoints, e_optimized_control_loading; settings: css_print_method-external, google_font-enabled, font_display-swap",
+      "msapplication-TileImage": "https://wiki.matriz.org/wp-content/uploads/2024/12/fav1.png"
+    }
+  },
+  "links": [
+    "https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-flow-enhancement/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/interaction-matrix-6168/interaction-matrix-6183/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/component-analysis-5750/supersystem-5764/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-ranking-5941/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/ariz-5892/ariz-block-1/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/feature-transfer-7060/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/system-of-76-standard-inventive-solutions/substance-field-analysis/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-ranking-5941/providing-function-6709/measurement-function-6715/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/component-analysis-5750/engineering-system-5762/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/component-analysis-5750/supersystem-5764/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/interaction-matrix-6168/interaction-matrix-6183/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/main-function-5872/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-ranking-5941/corrective-function-6717/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-ranking-5941/auxiliary-function-6687/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/flow-analysis-5839/flow-disadvatage-6629/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/function-oriented-search-fos/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/valu-analysis-6483/",
+    "https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-increasing-value/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/",
+    "https://wiki.matriz.org/knowledge-base/triz/concept-substantiation/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/valu-analysis-6483/value-5943/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/component-analysis-5750/component-5760/",
+    "https://wiki.matriz.org/knowledge-base/triz/resources-in-triz-7018/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/benchmarking/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-ranking-5941/providing-function-6709/transport-function-6713/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/clone-problems-application/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/flow-analysis-5839/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/ariz-5892/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/flow-analysis-5839/flow/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/cause-effect-chain-analysis-5817/initial-disadvantage-5822/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/main-function-5872/target-component-6357/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/ariz-5892/x-factor/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-cost-analysis-6247/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/ariz-5892/mini-problem/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-ranking-5941/providing-function-6709/supporting-function-6711/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-5674/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-ranking-5941/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/contradictions/engineering-contradiction-5995/contradiction-matrix-6026/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/contradictions/physical-contradiction-6056/algorithm-for-resolving-physical-contradictions/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/cost-analysis-7099/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/ariz-5892/tool/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/s-curve-analysis/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/valu-analysis-6483/function-cost-analysis-6247/",
+    "https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-s-curve-evolution/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-ranking-5941/corrective-function-6717/defect-6820/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/contradictions/inventive-principles-6023/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/interaction-matrix-6168/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-ranking-5941/auxiliary-function-6687/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-ranking-5941/corrective-function-6717/defect-6820/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/substance-field-modeling/standard-inventive-solutions/substance-field-model/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-ranking-5941/value-5943/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/standard-inventive-solutions/substance-field-model/",
+    "https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-increasing-coordination/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-ranking-5941/productive-function-6707/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/contradictions/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/substance-field-modeling/standard-inventive-solutions/substance-field-analysis/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/component-analysis-5750/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-disadvantage-6287/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/contradictions/engineering-contradiction-5995/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/ariz-5892/conflicting-pair/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-ranking-5941/providing-function-6709/supporting-function-6711/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/feature-transfer-7060/neutral-system/",
+    "https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-increasing-controllability/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/functionality-index/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/cost-analysis-7099/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/valu-analysis-6483/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/problem-models-6028/engineering-contradiction-5995/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/main-function-5872/target-component-6357/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/contradictions/engineering-contradiction-5995/contradiction-matrix-6026/typical-parameters/",
+    "https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-s-curve-evolution/main-parameter-of-value/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/ariz-5892/product/",
+    "https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/",
+    "https://wiki.matriz.org/knowledge-base/triz/operating-time/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/trimming-6398/trimming-problem-6926/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/standard-inventive-solutions/substance-field-analysis/substance-field-model/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/component-analysis-5750/component-model-6170/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-ranking-5941/providing-function-6709/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/component-analysis-5750/component-5760/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/ariz-5892/ideal-final-result-5922/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/valu-analysis-6483/value-5943/ideal-system-5939/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/feature-transfer-7060/feature-transfer-problem-7062/",
+    "https://wiki.matriz.org/knowledge-base/triz/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/cause-effect-chain-analysis-5817/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-ranking-5941/additional-function-6684/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/interaction-matrix-6168/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-ranking-5941/providing-function-6709/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/system-of-76-standard-inventive-solutions/substance-field-model/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-model-6290/",
+    "https://wiki.matriz.org/knowledge-base/triz/main-parameter-of-value/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-ranking-5941/corrective-function-6717/",
+    "https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-transition-to-the-supersystem/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/component-analysis-5750/engineering-system-5762/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-model-6290/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/cause-effect-chain-analysis-5817/key-disadvantage-5820/",
+    "https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-s-curve-evolution/s-curve/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/key-problem-7057/",
+    "https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-increasing-completeness-of-system-components/",
+    "https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-increasing-dynamization/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/feature-transfer-7060/competing-system/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/contradictions/typical-parameters/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-ranking-5941/basic-function-5722/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/database-of-scientific-effects/",
+    "https://wiki.matriz.org/knowledge-base/triz/glossary-6146/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/trimming-6398/trimming-rules-6730/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/main-function-5872/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/valu-analysis-6483/functionality-index/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/interaction-matrix-6168/interaction-6207/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/feature-transfer-7060/alternative-system/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-ranking-5941/additional-function-6684/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/contradictions/physical-contradiction-6056/",
+    "https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-increasing-degree-of-trimming/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-ranking-5941/providing-function-6709/measurement-function-6715/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-5674/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-disadvantage-6287/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/cause-effect-chain-analysis-5817/vicious-circle/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/substance-field-modeling/standard-inventive-solutions/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/feature-transfer-7060/base-system/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/trimming-6398/trimming-model-6924/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/standard-inventive-solutions/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/interaction-matrix-6168/interaction-6207/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/component-analysis-5750/",
+    "https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-uneven-development-of-system-components/",
+    "https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-decreasing-human-involvement/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-ranking-5941/value-5943/ideal-system-5939/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/trimming-6398/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-analysis-5611/function-modeling-5810/function-ranking-5941/basic-function-5722/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-ranking-5941/productive-function-6707/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/ariz-5892/operating-time/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/substance-field-modeling/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/trimming-6398/partial-trimming-6946/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/ariz-5892/operating-zone/"
+  ],
+  "images": [
+    "https://wiki.matriz.org/wp-content/uploads/2024/10/logo.svg",
+    "https://wiki.matriz.org/wp-content/uploads/2024/10/logo_white.svg",
+    "https://wiki.matriz.org/wp-content/plugins/eazydocs/assets/images/icon/folder-closed.png",
+    "https://wiki.matriz.org/wp-content/themes/docly/assets/img/folder-open.png",
+    "https://wiki.matriz.org/wp-content/plugins/eazydocs/assets/images/icon/folder-open.png",
+    "https://wiki.matriz.org/wp-content/themes/docly/assets/img/folder-closed.png"
+  ],
+  "html_file": "6eb0ac8849ff8a1e8d538cc5212d1b6a.html",
+  "timestamp": 1756671539.826231
+}

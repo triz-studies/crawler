@@ -1,0 +1,1515 @@
+{
+  "url": "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/standard-inventive-solutions/",
+  "depth": 2,
+  "title": "Standard inventive solutions (SIS) – TRIZ Knowledge Base",
+  "content": {
+    "title": "Standard inventive solutions (SIS) – TRIZ Knowledge Base",
+    "headings": [
+      {
+        "level": 1,
+        "text": "Standard inventive solutions (SIS)",
+        "id": ""
+      },
+      {
+        "level": 2,
+        "text": "TRIZ knowledge base",
+        "id": ""
+      },
+      {
+        "level": 2,
+        "text": "TRIZ knowledge base",
+        "id": ""
+      },
+      {
+        "level": 2,
+        "text": "Overview",
+        "id": ""
+      },
+      {
+        "level": 2,
+        "text": "Structure of the system",
+        "id": ""
+      },
+      {
+        "level": 2,
+        "text": "Full list of 76 standard inventive solutions",
+        "id": ""
+      },
+      {
+        "level": 3,
+        "text": "Class 1: Building and destruction of Su-Fields",
+        "id": ""
+      },
+      {
+        "level": 3,
+        "text": "Class 2: Development of Su-Fields",
+        "id": ""
+      },
+      {
+        "level": 3,
+        "text": "Class 3: Transition to supersystem and microlevel",
+        "id": ""
+      },
+      {
+        "level": 3,
+        "text": "Class 4: Standard inventive solutions for measuring and detecting",
+        "id": ""
+      },
+      {
+        "level": 3,
+        "text": "Class 5: Standard inventive solutions on application of SISs",
+        "id": ""
+      },
+      {
+        "level": 4,
+        "text": "1.1.\tSynthesis of a substance-field system",
+        "id": ""
+      },
+      {
+        "level": 4,
+        "text": "1.2.\tDestroy Su-Fields",
+        "id": ""
+      },
+      {
+        "level": 4,
+        "text": "2.1.\tTransition to more sophisticated Su-Field",
+        "id": ""
+      },
+      {
+        "level": 4,
+        "text": "2.2.\tIntensification of Su-Fields",
+        "id": ""
+      },
+      {
+        "level": 4,
+        "text": "2.3.\tIntensification of rhythms coordination",
+        "id": ""
+      },
+      {
+        "level": 4,
+        "text": "2.4.\tFe-Fields (intensified sophisticated Su-Fields)",
+        "id": ""
+      },
+      {
+        "level": 4,
+        "text": "3.1.\tTransition to bi- and poly-systems",
+        "id": ""
+      },
+      {
+        "level": 4,
+        "text": "3.2.\tTransition to microlevel",
+        "id": ""
+      },
+      {
+        "level": 4,
+        "text": "4.1.\tBypasses",
+        "id": ""
+      },
+      {
+        "level": 4,
+        "text": "4.2.\tCreating the measurement Su-Field",
+        "id": ""
+      },
+      {
+        "level": 4,
+        "text": "4.3.\tIntensifying measurement Su-Fields",
+        "id": ""
+      },
+      {
+        "level": 4,
+        "text": "4.4.\tTransition to measurement Fe-Fields",
+        "id": ""
+      },
+      {
+        "level": 4,
+        "text": "4.5.\tDirection of measurement Su-Fields development",
+        "id": ""
+      },
+      {
+        "level": 4,
+        "text": "5.1.\tSpecifics of introducing substances",
+        "id": ""
+      },
+      {
+        "level": 4,
+        "text": "5.2.\tIntroducing fields",
+        "id": ""
+      },
+      {
+        "level": 4,
+        "text": "5.3.\tUsing phase transitions",
+        "id": ""
+      },
+      {
+        "level": 4,
+        "text": "5.4.\tSpecifics of using the scientific effects",
+        "id": ""
+      },
+      {
+        "level": 4,
+        "text": "5.5.\tThe experimental SISs",
+        "id": ""
+      },
+      {
+        "level": 4,
+        "text": "Articles",
+        "id": ""
+      },
+      {
+        "level": 6,
+        "text": "CONTENTS",
+        "id": ""
+      }
+    ],
+    "paragraphs": [
+      "Standard inventive solutions (SIS)are a set of 76 typical solution models, to typical problem models that are expressed in the form ofsubstance-field (Su-Field) models.",
+      "The system of standard inventive solutions (SIS) is a collection of 76 typical technical solutions, developed in the form of substance-field models(so called Su-Fields)representing interactions between substances and fields. It serves as a tool for analyzing and generating solutions to engineering problems.",
+      "The system was created by Genrikh Altshuller, who, through the analysis of thousands of patents, identified recurring patterns in problem-solving across various technical fields.The history of SIS dates back to the 1970s, when Altshuller and his team developed the first set of 28 standard solutions based on the Su-Field model. The system was further expanded throughout the 1980s, culminating in a set of 76 standards, which Altshuller deemed sufficiently complete. However, he did not rule out the possibility of further expanding the system in the future.",
+      "Thus, the list of standard inventive solutions is not finite. Theoretically, new recommendations could be discovered and added, based on emerging technologies and evolving trends in engineering. Nonetheless, the current collection provides a robust foundation for addressing a wide range of technical challenges.",
+      "The system of standard inventive solutions contains 76 SISs, which are organized into five classes. Providing the logical structure facilitates efficient navigation and application of solutions to specific types of engineering problems:",
+      "The following text presents the original content developed by G. Altshuller (including pictures).",
+      "SISs from Class 1 are used to resolve engineering problems by improving interactions and eliminating harmful effects. They are focused on constructing or destroying Su-Field models if the models areincomplete(S1, S2, or F is missing),complete but not working(F is inadequate), orharmful.",
+      "The class contains 2 sub-classes and 13 SISs.",
+      "The main idea of this sub-class is clearly reflected in SIS 1.1.1: for the synthesis of a workable technical system, it is necessary – in the simplest case – to go from incomplete Su-Field to complete Su-Field. Often, constructing the Su-Field encounters difficulties due to various restrictions on the introduction of substances and fields. Standards 1.1.2 through 1.1.8 show typical workarounds in such cases.",
+      "If there is an object that is not easy to change as required, and the conditions do not contain any limitations on introducing substances and fields, solve the problem by synthesizing an SIS, i.e., by introducing the missing element(s).",
+      "If there is a Su-Field that is difficult to be changed, and there are no restrictions on introducing additives into the available substances, the problem is being solved by transition to the internal complex Su-Field, i.e., by introducing an internal additive to S1 or S2. That increases the controllability or adds the necessary properties to the Su-Field. The additive can be added permanently or temporarily.",
+      "S1 is a product, S2 is a tool, S3 is an additive. Brackets denote an inner compound bond (an outer compound bond is denoted without brackets).",
+      "If there is a Su-Field that is difficult to be changed, and there are no restrictions on introducing additives into the available substances, the problem is being solved by transition to the externalcomplex Su-Field, i.e., by introducing an external additive to S1 or S2. That increases the controllability or adds the necessary properties to the Su-Field. The additive can be added permanently or temporarily.",
+      "If there is a Su-Field that is difficult to be changed, and there are no restrictions on introducing additives into the available substances, the problem is being solved by introducing an additive that is a part of the environment or the supersystem.",
+      "If the external environment does not contain ready substances required to synthesize a Su-Field, these substances can be obtained by replacing the external environment with another one, or by decomposing the environment, or by introducing additives into the environment.",
+      "If a minimal (measured, optimal) effect of action is required, but it is difficult or impossible to provide it under the conditions of the problem, use a maximal action (either of a field or a substance) while the excess is then removed. Substance excess is removed by a field, while field excess is removed by a substance. The excess is shown by a double line.",
+      "If a maximal effect of action on a substance is required and this is not allowed, the maximal action has to be preserved but directed to another substance attached to the first one.",
+      "If a selectively maximal action is required (maximal in certain zones, while maintaining the minimal in other zones), the field should be maximal, but:",
+      "1.1.8.1. Selectively maximal mode: maximal field",
+      "In the first case, we introduce a protective substance where it is necessary to maintain minimal action.",
+      "1.1.8.2. Selectively maximal mode: minimal field",
+      "In the second case, while having the minimal mode, we selectively introduce substances that locally generate an additional field, for example, thermit compaunds – for thermal action, explosive compaunds for mechanical action.",
+      "Sub-class 1.2. includes SISs for destruction of Su-Fields and the elimination or neutralization of harmful effects within them.The strongest idea of this sub-class is the mobilization of the necessary elements through the use of the available substance-field resources.Standard 1.2.2 is particularly important. According to it, functions of a new substance are performed by modified substances already present in the system.",
+      "If useful and harmful actions appear between two substances in a substance-field system and there is no need to maintain a direct contact between the substances, solve the problem by introducing a third substance between them. The substance should be free or sufficiently cheap.",
+      "The wavy arrow indicates an action that has to be eliminated.",
+      "If there are useful and harmful actions between two substances, and there is no need to maintain direct contact between the substances, and it is forbidden or inconvenient to use foreign substances, solve the problem by introducing a third substance between the two. In this case, the third substance is to be a modification of the first or second substances.",
+      "Note:S3 can be introduced into the system as a ready substance from the supersystem or it can be obtained (by the action of F1 or F2) from S1 or S2. In particular, S3 can be a „void”, bubbles, foam, etc.",
+      "If it is necessary to eliminate the harmful action of a field upon a substance, the problem can be solved by introducing a second substance that draws off upon itself the harmful effect of the field.",
+      "If useful and harmful action appear between two substances in a Su-Field, and a direct contact between the substances must be maintained, the problem can be solved by transitioning to a dual substance-field system — the useful effect is provided by the existing field while a new counteracting field neutralizes the harmful action (or transforms the harmful action into a useful action).",
+      "If it is necessary to destroy a Su-Field with a magnetic field, the problem is solved by using physical effects that are capable of “switching off” ferromagnetic properties of substances (e.g., by de-magnetizing by a mechanical impact or by heating above the Curie point).",
+      "Class 2 of standard inventive solutions is used to improve the efficiency of theengineering systemby introducing minor modifications.",
+      "This class contains 4 sub-classes and 23 SISs.",
+      "An increase of the efficiency of Su-Fields can be achieved by the transition from simple Su-Fields to more sophisticated ones – chain and double ones. The modifications are relatively small, while the transition ensures the emergence of new qualities and strengthening of the existing ones, primarily the controllability of the system.",
+      "If it is necessary to increase the efficiency of the Su-Field, the problem can be solved by transforming S1 or S2 into an independently controlled Su-Field, thus creating achain Su-Field.",
+      "S3 or S4 can be transformed into another independently controlled Su-Field.",
+      "If the Su-Field is insufficient and the replacement of its elements is unacceptable, the problem can be solved by introducing a second field, hence constructing adouble Su-Fieldthat has higher efficiency.",
+      "The general idea behind six SIS of this sub-class is to increase the efficiency of Su-Fields – simple or more sophisticated – without introducing any new fields or substances. This is achieved by the intensified use of the available substance-field resources.",
+      "An efficiency of Su-Field can be increased by replacing the uncontrolled (or poorly controlled) field with a controlled (well-controlled) field, e.g., replacing the gravity field with a mechanical, mechanical-electric, etc.",
+      "An efficiency of Su-Field can be improved by increasing the degree of segmentation of S1 or S2.",
+      "Note:",
+      "A special case of substances segmentation is the transition from solids to capillary-porous substances. This transition is performed along the following line:",
+      "monolith substance",
+      "substance with one cavity",
+      "monolith with many cavities (perforated substance)",
+      "capillary-porous substance",
+      "capillary-porous substance with a certain pore structure (and size)",
+      "With the development of this line, the possibility of introducing a liquid substance into cavities-pores and using physical effects increases.",
+      "Efficiency of a Su-Field can be improved by increasing the degree of its dynamization, i.e., by transitioning to a more flexible, rapidly changing structure of the system.",
+      "Note:A triangular symbol with a wavy line represents a dynamic Su-Field that changes during its operation.The dynamization ofS2usually start with introducing a hinge. Further dynamization runs along the line: one hinge -> many hinges -> flexible substance.The dynamization of F usuall transition from the constant F to pulsating F.",
+      "Efficiency of Su-Field can be increased by transitioning from homogeneous or unstructured field to inhomogeneous field or a field with a special structure (constant or variable in time and space).",
+      "Note: The # symbol next to the letter F denotes that the field has a special structure variable in time and space.If a substance that is a part of the Su-Field or can be a part of the Su-Field mut have a specific spatial structure, the process should be performed in a field that has a structure corresponding to the required structure of the substance.",
+      "Efficiency of Su-Field can be increased by transitioning from homogeneous or unstructured substance to inhomogeneous substance or a substance with a special structure (constant or variable in time and space).",
+      "Note:The # symbol next to the letter S denotes that the substance has a special structure variable in time and space.If it is necessary to obtain an intensive thermal effect in the certain places of the system (points, lines), exothermic substances should be introduced in these places beforehand.",
+      "Sub-class 2.3 includes SISs for Su-Fields intensification in particularly economical ways. Instead of introducing or substantially changing substances or fields, the SISs provide for purely quantitative changes – frequencies, sizes, or mass. Thus, a significant new effect is achieved with minimal system changes.",
+      "Efficiency of Su-Field can be improved by coordination of the frequency of the Field with the natural frequency of the Substance.",
+      "In more sophisticated Su-Field, the frequencies of the Fields that are used should be coordinated.",
+      "When two activities, e.g., changing and measuring, are incompatible, one activity can be performed in the pauses of the other. Important: pauses in one action should be filled with the other action.",
+      "Fe-Field is a Su-Field where one of the Substances is segmented, has magnetic properties and at least one Field is electromagnetic.",
+      "Intensification can be performed through several typical ways simultaneaously. Su-Fields where the magnetis Substance is segmented is the easiest to intensify.",
+      "Efficiency of Su-Field can be improved by using a ferromagnetic Substance (as one piece) and a magnetic Field.",
+      "Note:This is the SIS that uses ferromagnetic Substance that is not segmented. We talk about the Proto-Fe-Field and other intermediate states.",
+      "This SIS is applicable not only for simple Su-Fields but also to complex (with an additive), as well as for Su-Fields where the additive is a part of the environment.",
+      "Efficiency of Su-Field can be improved by transition from Su-Field or Proto-Fe-Field to Fe-Field by replacing one of the substances with ferro-particles (or adding ferro-particles like chips, granules, grains, etc.) and using a magnetic or an electromagnetic field.",
+      "The controlability grows with the increase of the degree of the ferro-particles fragmentation, so the development of Fe-Fields follows the line:",
+      "granules",
+      "powder",
+      "finely dispersed ferro-particles",
+      "The controlability also grows with the increase in the degree of fragmentation of the substance into which the ferro-particles are introduced. The development follows the line:",
+      "monolith substance",
+      "grains",
+      "powder",
+      "liquid",
+      "Note:",
+      "Transition to Fe-Field can be considered a joint application for two SIS – 2.4.1 (Transition to Proto-Fe-Field) and 2.2.2 (Segmentation of the substance).",
+      "Having turned into Fe-Field, the Su-Field repeats the development cycle, however, at a new level, since Fe-Fields can be characterized by high controllability and efficiency. The SISs of sub-class 2.4 can be considered as types of „isotopes” of SISs of sub-classes 2.1-2.3. Singling out Fe-Fields into their own sub-class is justified (at least at this stage of SIS development) by the exceptional practical significance of Fe-Fields. Additionally, Fe-Fields are more precise research tool for studying rougher Su-Fields and predicting their development.",
+      "Efficiency of Fe-Field can be improved by the use of ferromagnetic fluids – colloidal ferro-particles suspended in kerosene, silicone, or water. SIS 2.4.3 can be seen as a last point in the development according to SIS 2.4.2.",
+      "Efficiency of Fe-Fields can be improved by using a capillary-porous structure that is characteristic for many Fe-Fields.",
+      "If it is necessary to increase a controllability of the system by transition to Fe-Field, and the replacement of substances by ferro-particles is unacceptable, the transition is performed by introducing additives to one of the substances, hence creating an internal or external complex Fe-Field.",
+      "If it is necessary to increase a controllability of the system by transition from Su-Field to Fe-Field, and replacing the substance with ferro-particles (or adding additives to the substance) is unacceptable, then the ferro-particles should be introduced into the external environment and control the system by the magnetic field, hence changing the environment parameters (SIS 2.4.3).",
+      "Electrorheological fluids controlled by electric fields can also be used as an external environment.",
+      "It is possible to controll Fe-Fields using physical effects.",
+      "Efficiency of Fe-Field can be improved by increasing the degree of its dimization, i.e., by transitioning to a more flexible, rapidly changing structure of the system.",
+      "Efficiency of Fe-Field can be increased by transitioning from homogeneous field to inhomogeneous one or from an unstructured field or a field with a special structure (constant or variable in time and space).",
+      "Efficiency of Proto-Fe-Field and Fe-Field can be improved by coordinating rythms of its elements.",
+      "If the introduction of ferromagnets or magnetization of substances is difficult, the interaction of an external electromagnetic field with the direct contact, or induced currents, or the interaction of these currents with each other should be used.",
+      "Note:",
+      "simple E-Field",
+      "complex E- Field",
+      "E-Field based on an external environment",
+      "dynamization",
+      "segmentation/structurization",
+      "rhythm coordination",
+      "A special type of E-Fields are Su-Fields with electro-rheological suspension (fine non-conducting but electrically active particles), with controlled viscosity. If the ferromagnetic fluids cannot be used, the electro-rheological suspension can be applied.",
+      "Class 3 of standard inventive solutions applies to theengineering systemswhich performance isinsufficient. Their efficiency is improved by developing solutions on the different system levels, like the level of supersystem or the microlevel.",
+      "This class contains 2 sub-classes and 6 SISs.",
+      "Along with the internal improvement (SISs of Class2), there is a line of external development: at any stage of the internal development, the system can be intergrated with the supersystem components obtaining a new quality.",
+      "At any stage of the development, efficiency of Su-Field can be increased by the integration of the system with another system (or systems) into a more sophisticated bi-system or a poly-system (system transition 1a).",
+      "Increasing the efficiency of the synthesized bi-systems and poly-systems can be achieved primarily through the development of links between elements of Su-Field.",
+      "The newly developed bi-systems and poly-systems often have „no links”, that is, they are just a „pile” of components. The development is aimed at strengthening linking. On the other hand, elements in newly created systems are sometimes connected by rigid links. In these cases, the development is aimed at increasing the degree of dynamization of links.",
+      "no links",
+      "rigid link",
+      "flexible link",
+      "field link",
+      "The efficiency of bi-systems and poly-systems increases with an increase in the difference between the elements of Su-Field (system transition 1b):",
+      "identical elements",
+      "elements with shifted characteristics",
+      "different elements",
+      "inverse combinations of the „element and anti-element”",
+      "Efficiency of bi-systems and poly-systems can be improved by Trimming. Completely trimmed bi-systems and poly-systems become monosystems again. The cycle can be repeated.",
+      "Efficiency of bi-systems and poly-systems can be improved by distributing opposite properties in the system and among its parts. A two-level system is used in which the entire system has property C, and its parts (particles) have property anti-C (system transition 1c).",
+      "There are two ways of system transition:",
+      "At any stage of development, the efficiency of the system can be improved by system transition 2: from the macro level to the micro level, when the system or its part is replaced by a substance capable of performing the required action when interacting with the field.",
+      "Class 4 of standard inventive solutions applies to problems of measuring or detecting.",
+      "This class contains 5 sub-classes and 17 SISs.",
+      "If it is necessary to measure or detect, it is recommended that the principle of operation be changed in such a way that there is no need to measure or detect, maintaining the necessary accuracy and cost.",
+      "If it is necessary to measure or detect, it is recommendd that the system be changed in such a way that there is no need to measure or detect.",
+      "If the problem of detection or measurement cannot be solved using SIS 4.1.1, it is recommended that the direct operation on the object be replaced with operations on its copy. For example, instead of directly measuring the logs loaded on the railway platform, the measurement is done from a photo taken on a specific scale.",
+      "If the problem of detection or measurement cannot be solved using SISs 4.1.1 or 4.1.2, it is recommended to turn it into a successive change detection task.",
+      "When we create Su-Fields for measurement, the strategy should be similar to the case as we create a Su-Field for improvement: complete Su-Field by introducing the missing substances or fields. The difference is that the output ot themeasurement Su-Fieldis a field.",
+      "If a non-Su-Field is difficult to detect or measure, the problem can be solved by creating a simple or double Su-Field with an output field.",
+      "If the system (or part of it) is difficult to detect or measure, the problem can be solved by transition to the internal or external complex Su-Field, by introducing easily detectable additives (marks).",
+      "If the system is difficult to detect or measure at some point in time and it is impossible to introduce additives which create an easily detectable and easily measured field, these additives should be introduced into the external environment so that the change in the state of the system can be assessed.",
+      "If it is impossible to introduce the additives into the external environment (according to SIS 4.2.3), these additives can be obtained by using the resources of the environment, e.g., by decomposing it or changing its physical state (for example, gas or vapor bubbles obtained by electrolysis, cavitation, or other methods).",
+      "The measurment Su-Field can be intensified by applying physical effects and by coordinating the rhythm.",
+      "The efficiency of detecting or measuring the Su-Field can be improved by using physical effects.",
+      "If changes in the system cannot be detected or measured directly and it is impossible to pass the field through the system, the problem can be solved by inducing resonance oscillations in the whole system or a part of it. Changing the oscillations frequency can help to identify changes in the system.",
+      "If it is not possible to apply SIS 4.3.2, the system condition can be assessed using the change of the natural frequency of an object (in the external environment) integrated with the controlled system.",
+      "Measurement Su-FIelds strongly tend to transform into Fe-Fields.",
+      "Su-Fields with non-magnetic fields tend to transform into Proto-Fe-Fields, that is, Su-Fields with a magnetic substance and a magnetic field.",
+      "If it is necessary to increase the efficiency of detection or measurement by Proto-Fe-Field or Su-Field, it is necessary to go to Fe-Field. One of the substances can be replaced with ferromagnetic particles or the ferromagnetic additives can be used, then the magnetic field can be detected or measured.",
+      "If it is necessary to increase the efficiency of detection or measurement of the system by transition to Fe-Field, and replacing substances with ferromagnetic particles is impossible, then the complex Fe-Field should be created by introducing additives to the substance.",
+      "If it is necessary to increase the efficiency of detection or measurement of the system by transition from Su-Field to Fe-Field, and the introduction of ferromagnetic particles is impossible, then the ferromagnetic particles should be introduced into the external environment.",
+      "If it is necessary to increase the efficiency of detection or measurement of the system, the scientific effects should be used, for example the Curie point, Hopkinson or Barkhausen effects, magnetoelastic effect, etc.",
+      "The development of measurement Su-Fields is performed through the usual system transitions, but it also has its specific features.",
+      "At any stage of development, the effectiveness of the measurment Su-Field can be increased by transition to a bi-system or a poly-system.",
+      "Measurment Su-Fields are developing in the floowing direction:",
+      "function measurement",
+      "measurement of the first derivative of the function",
+      "measurement of the second derivative of the function",
+      "Class 5 of standard inventive solutions gives recommendations as to how to introduce newsubstances,fieldsorscientific effects more effectively when applying SISs in the four previous classes. It provides “helpers” to satisfy constraints of the project.",
+      "This class contains 5 subclasses and 17 SISs.",
+      "When creating, restructuring, or destroing Su-Fields, it is often necessary to introduce new substance. That will deacrease the ideality of the system. Therefore, substances must be „introduced without introducing” and various bypasses should be used.",
+      "If it is necessary to introduce a substance into the system, and this is prohibited by the problem constraints or is unacceptable due to the operating conditions, then bypasses should be used.",
+      "5.1.1.1. Using a void instead of substance",
+      "5.1.1.2. Using a field instead of substance",
+      "5.1.1.3. Using an external additive instead of an internal one",
+      "5.1.1.4. Using very small doses of a particularly active additive",
+      "5.1.1.5. Using very small doses of a usual additive, but concentrated in separate parts of the object",
+      "5.1.1.6. Using an additive for some time",
+      "5.1.1.7. Instead of an object, use its copy (model) into which an additive can be introduced",
+      "5.1.1.8. Using the additive in the form of a chemical compound, which later released",
+      "5.1.1.9. The additive is obtained by decomposition of an external environment or the object itself, for example, by electrolysis, or by changing the state of aggregate of the external environment or the part of the object",
+      "If it is difficult to transform Su-Field and the problem conditions do not allow to replace the tool or to introduce additives, use the product instead of the tool, dividing it into parts that interact with each other.",
+      "After the action, the substance introduced into the system should disappear or become indistinguishable from the substance that has previously been in the system or in the external environment.",
+      "If it is necessary to introduce a large amount of a substance, and this is prohibited by the system constraints or is unacceptable due to the operating conditions, use a „void” in the form of inflatable structures or foam instead of the substance.",
+      "When creating, restructuring, or destroing Su-Fields, it is often necessary to introduce new fields. In order not to complicate the system, SISs of subclass 5.2 should be used.",
+      "If it is necessary to introduce a field into the Su-Field, first, the existing fields should be used. The substances of the Su-Field are the carriers of those fields.",
+      "If it is necessary to introduce a field into the Su-Field, and it is not possible according to SIS 5.2.1, use the fields available in the external environment.",
+      "If it is necessary to introduce a field into the system, and it is impossible according to SISs 5.2.1 and 5.2.2, use the fields that can be generated by the substances present in the system or external environment.",
+      "Contradictory demands for introduced substances and fields can be satisfied using phase transitions.",
+      "The efficiency of the substance application can be increased without introducing other substances through the phase transition 1, i.e., by changing the state of aggregate of the existing substances.",
+      "„Dual” properties can be provided by phase transition 2, i.e., the use of substances capable of changing from one phase state to another, depending on the operating conditions.",
+      "The efficiency of the system can be improved by phase transition 3, i.e., the use of phenomena accompanying the phase transition.",
+      "The „dual” properties of the system can be provided by a phase transition 4 – replacement of a single-phase state by a two-phase state.",
+      "The system efficiency obtained as a result of phase transition 4 can be increased by introducing an interaction (physical, chemical) between parts (or phases) of the system.",
+      "Many SISs provide for the use of scientific effects or can be used together with them. In this case, it is necessary to consider some techniques that increase the effectiveness of the scientific effects application.",
+      "If an object must periodically be in different physical states, then the transition should be accomplished by the object itself by means of reversible physical transformations, e.g., phase transitions, ionization-recombination, dissociation-association etc.",
+      "If a strong output action is required while the input action is weak, the converter-substance should be brought to a near critical state. Energy is stored in the substance and the input signal acts as a „trigger”.",
+      "If particles of the substance (i.e., ions) are needed to solve the problem, and their direct generation is impossible due to the problem constraints, then the required particles must be obtained by destroying a substance of a higher structural level (i.e., molecules).",
+      "If particles of the substance (i.e., molecules) are needed to solve the problem and it is impossible to obtain them directly or according to SIS 5.5.1, then the required particles have to be generated by completing or combining particles of a lower structural level (i.e., ions).",
+      "When applying SIS 5.5.1, the simplest way is to destroy the nearest higher „whole” or „excess” (negative ions) level, while when using SIS 5.5.2, the simplest way is to complete combining the nearest lower „non-whole” level.",
+      "REFERENCES",
+      "Powered ByEazyDocs",
+      "This text is open access and distributed under the terms of the Creative Commons, which permits use, distribution, and reproduction in any medium, provided the original source is credited.",
+      "© 2023 All Rights Reserved byMATRIZ/Terms and Conditions/Privacy Policy"
+    ],
+    "lists": [
+      {
+        "type": "ul",
+        "items": [
+          "Home",
+          "Knowledge base",
+          "Contradictions matrix",
+          "Contact"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Home",
+          "Knowledge base",
+          "Contradictions matrix",
+          "Contact"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Problem-identification toolsFunction-cost analysisFunction analysisComponent analysisComponentEngineering systemComponent modelSupersystemInteraction analysisInteractionInteraction matrixFunction modelingFunctionMain functionTarget componentFunction disadvantageFunction modelFunction rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport functionValue analysisValueIdeal systemFunctionality indexCost analysisFunction-cost diagramFlow analysisFlow disadvantageFlowCause-effect chain analysisKey disadvantageInitial disadvantageVicious circleTrimmingTrimming rulesTrimming modelPartial trimmingTrimming problemFeature transferNeutral system (Inert system)Base systemAlternative systemCompeting systemFeature transfer problemKey problemS-curve analysisInnovative benchmarking",
+          "Function-cost analysisFunction analysisComponent analysisComponentEngineering systemComponent modelSupersystemInteraction analysisInteractionInteraction matrixFunction modelingFunctionMain functionTarget componentFunction disadvantageFunction modelFunction rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport functionValue analysisValueIdeal systemFunctionality indexCost analysisFunction-cost diagram",
+          "Function analysisComponent analysisComponentEngineering systemComponent modelSupersystemInteraction analysisInteractionInteraction matrixFunction modelingFunctionMain functionTarget componentFunction disadvantageFunction modelFunction rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport functionValue analysisValueIdeal systemFunctionality index",
+          "Component analysisComponentEngineering systemComponent modelSupersystem",
+          "Component",
+          "Engineering system",
+          "Component model",
+          "Supersystem",
+          "Interaction analysisInteractionInteraction matrix",
+          "Interaction",
+          "Interaction matrix",
+          "Function modelingFunctionMain functionTarget componentFunction disadvantageFunction modelFunction rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport function",
+          "Function",
+          "Main functionTarget component",
+          "Target component",
+          "Function disadvantage",
+          "Function model",
+          "Function rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport function",
+          "Basic function",
+          "Additional function",
+          "Auxiliary function",
+          "Corrective functionDefect",
+          "Defect",
+          "Productive function",
+          "Providing functionMeasurement functionSupporting functionTransport function",
+          "Measurement function",
+          "Supporting function",
+          "Transport function",
+          "Value analysisValueIdeal systemFunctionality index",
+          "ValueIdeal system",
+          "Ideal system",
+          "Functionality index",
+          "Cost analysis",
+          "Function-cost diagram",
+          "Flow analysisFlow disadvantageFlow",
+          "Flow disadvantage",
+          "Flow",
+          "Cause-effect chain analysisKey disadvantageInitial disadvantageVicious circle",
+          "Key disadvantage",
+          "Initial disadvantage",
+          "Vicious circle",
+          "TrimmingTrimming rulesTrimming modelPartial trimmingTrimming problem",
+          "Trimming rules",
+          "Trimming model",
+          "Partial trimming",
+          "Trimming problem",
+          "Feature transferNeutral system (Inert system)Base systemAlternative systemCompeting systemFeature transfer problem",
+          "Neutral system (Inert system)",
+          "Base system",
+          "Alternative system",
+          "Competing system",
+          "Feature transfer problem",
+          "Key problem",
+          "S-curve analysis",
+          "Innovative benchmarking",
+          "Problem-solving toolsSubstance-field modelingStandard inventive solutions (SIS)Substance-field analysisSubstance-field modelContradictionsEngineering (technical) contradictionContradiction matrixTypical parametersPhysical contradictionAlgorithm for resolving physical contradictionsInventive principleARIZARIZ Block 1: Restructuring the original problemConflicting pairMini-problemOperating timeOperating zoneProductToolX-factorIdeal final resultFunction-oriented search (FOS)Clone problems applicationDatabase of scientific effects",
+          "Substance-field modelingStandard inventive solutions (SIS)Substance-field analysisSubstance-field model",
+          "Standard inventive solutions (SIS)Substance-field analysisSubstance-field model",
+          "Substance-field analysis",
+          "Substance-field model",
+          "ContradictionsEngineering (technical) contradictionContradiction matrixTypical parametersPhysical contradictionAlgorithm for resolving physical contradictionsInventive principle",
+          "Engineering (technical) contradictionContradiction matrixTypical parameters",
+          "Contradiction matrixTypical parameters",
+          "Typical parameters",
+          "Physical contradictionAlgorithm for resolving physical contradictions",
+          "Algorithm for resolving physical contradictions",
+          "Inventive principle",
+          "ARIZARIZ Block 1: Restructuring the original problemConflicting pairMini-problemOperating timeOperating zoneProductToolX-factorIdeal final result",
+          "ARIZ Block 1: Restructuring the original problem",
+          "Conflicting pair",
+          "Mini-problem",
+          "Operating time",
+          "Operating zone",
+          "Product",
+          "Tool",
+          "X-factor",
+          "Ideal final result",
+          "Function-oriented search (FOS)",
+          "Clone problems application",
+          "Database of scientific effects",
+          "Concept substantiation tools",
+          "Trends of engineering systems evolution (TESE)Trend of decreasing human involvementTrend of flow enhancementTrend of increasing completeness of system componentsTrend of increasing controllabilityTrend of increasing coordinationTrend of increasing degree of trimmingTrend of increasing dynamizationTrend of increasing valueTrend of S-curve evolutionMain parameter of valueS-curveTrend of transition to the supersystemTrend of uneven development of system components",
+          "Trend of decreasing human involvement",
+          "Trend of flow enhancement",
+          "Trend of increasing completeness of system components",
+          "Trend of increasing controllability",
+          "Trend of increasing coordination",
+          "Trend of increasing degree of trimming",
+          "Trend of increasing dynamization",
+          "Trend of increasing value",
+          "Trend of S-curve evolutionMain parameter of valueS-curve",
+          "Main parameter of value",
+          "S-curve",
+          "Trend of transition to the supersystem",
+          "Trend of uneven development of system components",
+          "GLOSSARY",
+          "Resources in TRIZ"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Function-cost analysisFunction analysisComponent analysisComponentEngineering systemComponent modelSupersystemInteraction analysisInteractionInteraction matrixFunction modelingFunctionMain functionTarget componentFunction disadvantageFunction modelFunction rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport functionValue analysisValueIdeal systemFunctionality indexCost analysisFunction-cost diagram",
+          "Function analysisComponent analysisComponentEngineering systemComponent modelSupersystemInteraction analysisInteractionInteraction matrixFunction modelingFunctionMain functionTarget componentFunction disadvantageFunction modelFunction rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport functionValue analysisValueIdeal systemFunctionality index",
+          "Component analysisComponentEngineering systemComponent modelSupersystem",
+          "Component",
+          "Engineering system",
+          "Component model",
+          "Supersystem",
+          "Interaction analysisInteractionInteraction matrix",
+          "Interaction",
+          "Interaction matrix",
+          "Function modelingFunctionMain functionTarget componentFunction disadvantageFunction modelFunction rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport function",
+          "Function",
+          "Main functionTarget component",
+          "Target component",
+          "Function disadvantage",
+          "Function model",
+          "Function rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport function",
+          "Basic function",
+          "Additional function",
+          "Auxiliary function",
+          "Corrective functionDefect",
+          "Defect",
+          "Productive function",
+          "Providing functionMeasurement functionSupporting functionTransport function",
+          "Measurement function",
+          "Supporting function",
+          "Transport function",
+          "Value analysisValueIdeal systemFunctionality index",
+          "ValueIdeal system",
+          "Ideal system",
+          "Functionality index",
+          "Cost analysis",
+          "Function-cost diagram",
+          "Flow analysisFlow disadvantageFlow",
+          "Flow disadvantage",
+          "Flow",
+          "Cause-effect chain analysisKey disadvantageInitial disadvantageVicious circle",
+          "Key disadvantage",
+          "Initial disadvantage",
+          "Vicious circle",
+          "TrimmingTrimming rulesTrimming modelPartial trimmingTrimming problem",
+          "Trimming rules",
+          "Trimming model",
+          "Partial trimming",
+          "Trimming problem",
+          "Feature transferNeutral system (Inert system)Base systemAlternative systemCompeting systemFeature transfer problem",
+          "Neutral system (Inert system)",
+          "Base system",
+          "Alternative system",
+          "Competing system",
+          "Feature transfer problem",
+          "Key problem",
+          "S-curve analysis",
+          "Innovative benchmarking"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Function analysisComponent analysisComponentEngineering systemComponent modelSupersystemInteraction analysisInteractionInteraction matrixFunction modelingFunctionMain functionTarget componentFunction disadvantageFunction modelFunction rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport functionValue analysisValueIdeal systemFunctionality index",
+          "Component analysisComponentEngineering systemComponent modelSupersystem",
+          "Component",
+          "Engineering system",
+          "Component model",
+          "Supersystem",
+          "Interaction analysisInteractionInteraction matrix",
+          "Interaction",
+          "Interaction matrix",
+          "Function modelingFunctionMain functionTarget componentFunction disadvantageFunction modelFunction rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport function",
+          "Function",
+          "Main functionTarget component",
+          "Target component",
+          "Function disadvantage",
+          "Function model",
+          "Function rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport function",
+          "Basic function",
+          "Additional function",
+          "Auxiliary function",
+          "Corrective functionDefect",
+          "Defect",
+          "Productive function",
+          "Providing functionMeasurement functionSupporting functionTransport function",
+          "Measurement function",
+          "Supporting function",
+          "Transport function",
+          "Value analysisValueIdeal systemFunctionality index",
+          "ValueIdeal system",
+          "Ideal system",
+          "Functionality index",
+          "Cost analysis",
+          "Function-cost diagram"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Component analysisComponentEngineering systemComponent modelSupersystem",
+          "Component",
+          "Engineering system",
+          "Component model",
+          "Supersystem",
+          "Interaction analysisInteractionInteraction matrix",
+          "Interaction",
+          "Interaction matrix",
+          "Function modelingFunctionMain functionTarget componentFunction disadvantageFunction modelFunction rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport function",
+          "Function",
+          "Main functionTarget component",
+          "Target component",
+          "Function disadvantage",
+          "Function model",
+          "Function rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport function",
+          "Basic function",
+          "Additional function",
+          "Auxiliary function",
+          "Corrective functionDefect",
+          "Defect",
+          "Productive function",
+          "Providing functionMeasurement functionSupporting functionTransport function",
+          "Measurement function",
+          "Supporting function",
+          "Transport function",
+          "Value analysisValueIdeal systemFunctionality index",
+          "ValueIdeal system",
+          "Ideal system",
+          "Functionality index"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Component",
+          "Engineering system",
+          "Component model",
+          "Supersystem"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Interaction",
+          "Interaction matrix"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Function",
+          "Main functionTarget component",
+          "Target component",
+          "Function disadvantage",
+          "Function model",
+          "Function rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport function",
+          "Basic function",
+          "Additional function",
+          "Auxiliary function",
+          "Corrective functionDefect",
+          "Defect",
+          "Productive function",
+          "Providing functionMeasurement functionSupporting functionTransport function",
+          "Measurement function",
+          "Supporting function",
+          "Transport function"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Target component"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Basic function",
+          "Additional function",
+          "Auxiliary function",
+          "Corrective functionDefect",
+          "Defect",
+          "Productive function",
+          "Providing functionMeasurement functionSupporting functionTransport function",
+          "Measurement function",
+          "Supporting function",
+          "Transport function"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Defect"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Measurement function",
+          "Supporting function",
+          "Transport function"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "ValueIdeal system",
+          "Ideal system",
+          "Functionality index"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Ideal system"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Flow disadvantage",
+          "Flow"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Key disadvantage",
+          "Initial disadvantage",
+          "Vicious circle"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Trimming rules",
+          "Trimming model",
+          "Partial trimming",
+          "Trimming problem"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Neutral system (Inert system)",
+          "Base system",
+          "Alternative system",
+          "Competing system",
+          "Feature transfer problem"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Substance-field modelingStandard inventive solutions (SIS)Substance-field analysisSubstance-field model",
+          "Standard inventive solutions (SIS)Substance-field analysisSubstance-field model",
+          "Substance-field analysis",
+          "Substance-field model",
+          "ContradictionsEngineering (technical) contradictionContradiction matrixTypical parametersPhysical contradictionAlgorithm for resolving physical contradictionsInventive principle",
+          "Engineering (technical) contradictionContradiction matrixTypical parameters",
+          "Contradiction matrixTypical parameters",
+          "Typical parameters",
+          "Physical contradictionAlgorithm for resolving physical contradictions",
+          "Algorithm for resolving physical contradictions",
+          "Inventive principle",
+          "ARIZARIZ Block 1: Restructuring the original problemConflicting pairMini-problemOperating timeOperating zoneProductToolX-factorIdeal final result",
+          "ARIZ Block 1: Restructuring the original problem",
+          "Conflicting pair",
+          "Mini-problem",
+          "Operating time",
+          "Operating zone",
+          "Product",
+          "Tool",
+          "X-factor",
+          "Ideal final result",
+          "Function-oriented search (FOS)",
+          "Clone problems application",
+          "Database of scientific effects"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Standard inventive solutions (SIS)Substance-field analysisSubstance-field model",
+          "Substance-field analysis",
+          "Substance-field model"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Substance-field analysis",
+          "Substance-field model"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Engineering (technical) contradictionContradiction matrixTypical parameters",
+          "Contradiction matrixTypical parameters",
+          "Typical parameters",
+          "Physical contradictionAlgorithm for resolving physical contradictions",
+          "Algorithm for resolving physical contradictions",
+          "Inventive principle"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Contradiction matrixTypical parameters",
+          "Typical parameters"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Typical parameters"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Algorithm for resolving physical contradictions"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "ARIZ Block 1: Restructuring the original problem",
+          "Conflicting pair",
+          "Mini-problem",
+          "Operating time",
+          "Operating zone",
+          "Product",
+          "Tool",
+          "X-factor",
+          "Ideal final result"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Trend of decreasing human involvement",
+          "Trend of flow enhancement",
+          "Trend of increasing completeness of system components",
+          "Trend of increasing controllability",
+          "Trend of increasing coordination",
+          "Trend of increasing degree of trimming",
+          "Trend of increasing dynamization",
+          "Trend of increasing value",
+          "Trend of S-curve evolutionMain parameter of valueS-curve",
+          "Main parameter of value",
+          "S-curve",
+          "Trend of transition to the supersystem",
+          "Trend of uneven development of system components"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Main parameter of value",
+          "S-curve"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "TRIZ",
+          "Contradiction Matrix",
+          "Glossary"
+        ]
+      },
+      {
+        "type": "ol",
+        "items": [
+          "Home",
+          "Docs",
+          "TRIZ knowledge base",
+          "Problem-solving tools",
+          "Substance-field modeling",
+          "Standard inventive solutions (SIS)"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Problem-identification toolsFunction-cost analysisFunction analysisComponent analysisComponentEngineering systemComponent modelSupersystemInteraction analysisInteractionInteraction matrixFunction modelingFunctionMain functionTarget componentFunction disadvantageFunction modelFunction rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport functionValue analysisValueIdeal systemFunctionality indexCost analysisFunction-cost diagramFlow analysisFlow disadvantageFlowCause-effect chain analysisKey disadvantageInitial disadvantageVicious circleTrimmingTrimming rulesTrimming modelPartial trimmingTrimming problemFeature transferNeutral system (Inert system)Base systemAlternative systemCompeting systemFeature transfer problemKey problemS-curve analysisInnovative benchmarking",
+          "Function-cost analysisFunction analysisComponent analysisComponentEngineering systemComponent modelSupersystemInteraction analysisInteractionInteraction matrixFunction modelingFunctionMain functionTarget componentFunction disadvantageFunction modelFunction rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport functionValue analysisValueIdeal systemFunctionality indexCost analysisFunction-cost diagram",
+          "Function analysisComponent analysisComponentEngineering systemComponent modelSupersystemInteraction analysisInteractionInteraction matrixFunction modelingFunctionMain functionTarget componentFunction disadvantageFunction modelFunction rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport functionValue analysisValueIdeal systemFunctionality index",
+          "Component analysisComponentEngineering systemComponent modelSupersystem",
+          "Component",
+          "Engineering system",
+          "Component model",
+          "Supersystem",
+          "Interaction analysisInteractionInteraction matrix",
+          "Interaction",
+          "Interaction matrix",
+          "Function modelingFunctionMain functionTarget componentFunction disadvantageFunction modelFunction rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport function",
+          "Function",
+          "Main functionTarget component",
+          "Target component",
+          "Function disadvantage",
+          "Function model",
+          "Function rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport function",
+          "Basic function",
+          "Additional function",
+          "Auxiliary function",
+          "Corrective functionDefect",
+          "Defect",
+          "Productive function",
+          "Providing functionMeasurement functionSupporting functionTransport function",
+          "Measurement function",
+          "Supporting function",
+          "Transport function",
+          "Value analysisValueIdeal systemFunctionality index",
+          "ValueIdeal system",
+          "Ideal system",
+          "Functionality index",
+          "Cost analysis",
+          "Function-cost diagram",
+          "Flow analysisFlow disadvantageFlow",
+          "Flow disadvantage",
+          "Flow",
+          "Cause-effect chain analysisKey disadvantageInitial disadvantageVicious circle",
+          "Key disadvantage",
+          "Initial disadvantage",
+          "Vicious circle",
+          "TrimmingTrimming rulesTrimming modelPartial trimmingTrimming problem",
+          "Trimming rules",
+          "Trimming model",
+          "Partial trimming",
+          "Trimming problem",
+          "Feature transferNeutral system (Inert system)Base systemAlternative systemCompeting systemFeature transfer problem",
+          "Neutral system (Inert system)",
+          "Base system",
+          "Alternative system",
+          "Competing system",
+          "Feature transfer problem",
+          "Key problem",
+          "S-curve analysis",
+          "Innovative benchmarking",
+          "Problem-solving toolsSubstance-field modelingStandard inventive solutions (SIS)Substance-field analysisSubstance-field modelContradictionsEngineering (technical) contradictionContradiction matrixTypical parametersPhysical contradictionAlgorithm for resolving physical contradictionsInventive principleARIZARIZ Block 1: Restructuring the original problemConflicting pairMini-problemOperating timeOperating zoneProductToolX-factorIdeal final resultFunction-oriented search (FOS)Clone problems applicationDatabase of scientific effects",
+          "Substance-field modelingStandard inventive solutions (SIS)Substance-field analysisSubstance-field model",
+          "Standard inventive solutions (SIS)Substance-field analysisSubstance-field model",
+          "Substance-field analysis",
+          "Substance-field model",
+          "ContradictionsEngineering (technical) contradictionContradiction matrixTypical parametersPhysical contradictionAlgorithm for resolving physical contradictionsInventive principle",
+          "Engineering (technical) contradictionContradiction matrixTypical parameters",
+          "Contradiction matrixTypical parameters",
+          "Typical parameters",
+          "Physical contradictionAlgorithm for resolving physical contradictions",
+          "Algorithm for resolving physical contradictions",
+          "Inventive principle",
+          "ARIZARIZ Block 1: Restructuring the original problemConflicting pairMini-problemOperating timeOperating zoneProductToolX-factorIdeal final result",
+          "ARIZ Block 1: Restructuring the original problem",
+          "Conflicting pair",
+          "Mini-problem",
+          "Operating time",
+          "Operating zone",
+          "Product",
+          "Tool",
+          "X-factor",
+          "Ideal final result",
+          "Function-oriented search (FOS)",
+          "Clone problems application",
+          "Database of scientific effects",
+          "Concept substantiation tools",
+          "Trends of engineering systems evolution (TESE)Trend of decreasing human involvementTrend of flow enhancementTrend of increasing completeness of system componentsTrend of increasing controllabilityTrend of increasing coordinationTrend of increasing degree of trimmingTrend of increasing dynamizationTrend of increasing valueTrend of S-curve evolutionMain parameter of valueS-curveTrend of transition to the supersystemTrend of uneven development of system components",
+          "Trend of decreasing human involvement",
+          "Trend of flow enhancement",
+          "Trend of increasing completeness of system components",
+          "Trend of increasing controllability",
+          "Trend of increasing coordination",
+          "Trend of increasing degree of trimming",
+          "Trend of increasing dynamization",
+          "Trend of increasing value",
+          "Trend of S-curve evolutionMain parameter of valueS-curve",
+          "Main parameter of value",
+          "S-curve",
+          "Trend of transition to the supersystem",
+          "Trend of uneven development of system components",
+          "GLOSSARY",
+          "Resources in TRIZ"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Function-cost analysisFunction analysisComponent analysisComponentEngineering systemComponent modelSupersystemInteraction analysisInteractionInteraction matrixFunction modelingFunctionMain functionTarget componentFunction disadvantageFunction modelFunction rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport functionValue analysisValueIdeal systemFunctionality indexCost analysisFunction-cost diagram",
+          "Function analysisComponent analysisComponentEngineering systemComponent modelSupersystemInteraction analysisInteractionInteraction matrixFunction modelingFunctionMain functionTarget componentFunction disadvantageFunction modelFunction rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport functionValue analysisValueIdeal systemFunctionality index",
+          "Component analysisComponentEngineering systemComponent modelSupersystem",
+          "Component",
+          "Engineering system",
+          "Component model",
+          "Supersystem",
+          "Interaction analysisInteractionInteraction matrix",
+          "Interaction",
+          "Interaction matrix",
+          "Function modelingFunctionMain functionTarget componentFunction disadvantageFunction modelFunction rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport function",
+          "Function",
+          "Main functionTarget component",
+          "Target component",
+          "Function disadvantage",
+          "Function model",
+          "Function rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport function",
+          "Basic function",
+          "Additional function",
+          "Auxiliary function",
+          "Corrective functionDefect",
+          "Defect",
+          "Productive function",
+          "Providing functionMeasurement functionSupporting functionTransport function",
+          "Measurement function",
+          "Supporting function",
+          "Transport function",
+          "Value analysisValueIdeal systemFunctionality index",
+          "ValueIdeal system",
+          "Ideal system",
+          "Functionality index",
+          "Cost analysis",
+          "Function-cost diagram",
+          "Flow analysisFlow disadvantageFlow",
+          "Flow disadvantage",
+          "Flow",
+          "Cause-effect chain analysisKey disadvantageInitial disadvantageVicious circle",
+          "Key disadvantage",
+          "Initial disadvantage",
+          "Vicious circle",
+          "TrimmingTrimming rulesTrimming modelPartial trimmingTrimming problem",
+          "Trimming rules",
+          "Trimming model",
+          "Partial trimming",
+          "Trimming problem",
+          "Feature transferNeutral system (Inert system)Base systemAlternative systemCompeting systemFeature transfer problem",
+          "Neutral system (Inert system)",
+          "Base system",
+          "Alternative system",
+          "Competing system",
+          "Feature transfer problem",
+          "Key problem",
+          "S-curve analysis",
+          "Innovative benchmarking"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Function analysisComponent analysisComponentEngineering systemComponent modelSupersystemInteraction analysisInteractionInteraction matrixFunction modelingFunctionMain functionTarget componentFunction disadvantageFunction modelFunction rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport functionValue analysisValueIdeal systemFunctionality index",
+          "Component analysisComponentEngineering systemComponent modelSupersystem",
+          "Component",
+          "Engineering system",
+          "Component model",
+          "Supersystem",
+          "Interaction analysisInteractionInteraction matrix",
+          "Interaction",
+          "Interaction matrix",
+          "Function modelingFunctionMain functionTarget componentFunction disadvantageFunction modelFunction rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport function",
+          "Function",
+          "Main functionTarget component",
+          "Target component",
+          "Function disadvantage",
+          "Function model",
+          "Function rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport function",
+          "Basic function",
+          "Additional function",
+          "Auxiliary function",
+          "Corrective functionDefect",
+          "Defect",
+          "Productive function",
+          "Providing functionMeasurement functionSupporting functionTransport function",
+          "Measurement function",
+          "Supporting function",
+          "Transport function",
+          "Value analysisValueIdeal systemFunctionality index",
+          "ValueIdeal system",
+          "Ideal system",
+          "Functionality index",
+          "Cost analysis",
+          "Function-cost diagram"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Component analysisComponentEngineering systemComponent modelSupersystem",
+          "Component",
+          "Engineering system",
+          "Component model",
+          "Supersystem",
+          "Interaction analysisInteractionInteraction matrix",
+          "Interaction",
+          "Interaction matrix",
+          "Function modelingFunctionMain functionTarget componentFunction disadvantageFunction modelFunction rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport function",
+          "Function",
+          "Main functionTarget component",
+          "Target component",
+          "Function disadvantage",
+          "Function model",
+          "Function rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport function",
+          "Basic function",
+          "Additional function",
+          "Auxiliary function",
+          "Corrective functionDefect",
+          "Defect",
+          "Productive function",
+          "Providing functionMeasurement functionSupporting functionTransport function",
+          "Measurement function",
+          "Supporting function",
+          "Transport function",
+          "Value analysisValueIdeal systemFunctionality index",
+          "ValueIdeal system",
+          "Ideal system",
+          "Functionality index"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Component",
+          "Engineering system",
+          "Component model",
+          "Supersystem"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Interaction",
+          "Interaction matrix"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Function",
+          "Main functionTarget component",
+          "Target component",
+          "Function disadvantage",
+          "Function model",
+          "Function rankBasic functionAdditional functionAuxiliary functionCorrective functionDefectProductive functionProviding functionMeasurement functionSupporting functionTransport function",
+          "Basic function",
+          "Additional function",
+          "Auxiliary function",
+          "Corrective functionDefect",
+          "Defect",
+          "Productive function",
+          "Providing functionMeasurement functionSupporting functionTransport function",
+          "Measurement function",
+          "Supporting function",
+          "Transport function"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Target component"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Basic function",
+          "Additional function",
+          "Auxiliary function",
+          "Corrective functionDefect",
+          "Defect",
+          "Productive function",
+          "Providing functionMeasurement functionSupporting functionTransport function",
+          "Measurement function",
+          "Supporting function",
+          "Transport function"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Defect"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Measurement function",
+          "Supporting function",
+          "Transport function"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "ValueIdeal system",
+          "Ideal system",
+          "Functionality index"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Ideal system"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Flow disadvantage",
+          "Flow"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Key disadvantage",
+          "Initial disadvantage",
+          "Vicious circle"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Trimming rules",
+          "Trimming model",
+          "Partial trimming",
+          "Trimming problem"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Neutral system (Inert system)",
+          "Base system",
+          "Alternative system",
+          "Competing system",
+          "Feature transfer problem"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Substance-field modelingStandard inventive solutions (SIS)Substance-field analysisSubstance-field model",
+          "Standard inventive solutions (SIS)Substance-field analysisSubstance-field model",
+          "Substance-field analysis",
+          "Substance-field model",
+          "ContradictionsEngineering (technical) contradictionContradiction matrixTypical parametersPhysical contradictionAlgorithm for resolving physical contradictionsInventive principle",
+          "Engineering (technical) contradictionContradiction matrixTypical parameters",
+          "Contradiction matrixTypical parameters",
+          "Typical parameters",
+          "Physical contradictionAlgorithm for resolving physical contradictions",
+          "Algorithm for resolving physical contradictions",
+          "Inventive principle",
+          "ARIZARIZ Block 1: Restructuring the original problemConflicting pairMini-problemOperating timeOperating zoneProductToolX-factorIdeal final result",
+          "ARIZ Block 1: Restructuring the original problem",
+          "Conflicting pair",
+          "Mini-problem",
+          "Operating time",
+          "Operating zone",
+          "Product",
+          "Tool",
+          "X-factor",
+          "Ideal final result",
+          "Function-oriented search (FOS)",
+          "Clone problems application",
+          "Database of scientific effects"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Standard inventive solutions (SIS)Substance-field analysisSubstance-field model",
+          "Substance-field analysis",
+          "Substance-field model"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Substance-field analysis",
+          "Substance-field model"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Engineering (technical) contradictionContradiction matrixTypical parameters",
+          "Contradiction matrixTypical parameters",
+          "Typical parameters",
+          "Physical contradictionAlgorithm for resolving physical contradictions",
+          "Algorithm for resolving physical contradictions",
+          "Inventive principle"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Contradiction matrixTypical parameters",
+          "Typical parameters"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Typical parameters"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Algorithm for resolving physical contradictions"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "ARIZ Block 1: Restructuring the original problem",
+          "Conflicting pair",
+          "Mini-problem",
+          "Operating time",
+          "Operating zone",
+          "Product",
+          "Tool",
+          "X-factor",
+          "Ideal final result"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Trend of decreasing human involvement",
+          "Trend of flow enhancement",
+          "Trend of increasing completeness of system components",
+          "Trend of increasing controllability",
+          "Trend of increasing coordination",
+          "Trend of increasing degree of trimming",
+          "Trend of increasing dynamization",
+          "Trend of increasing value",
+          "Trend of S-curve evolutionMain parameter of valueS-curve",
+          "Main parameter of value",
+          "S-curve",
+          "Trend of transition to the supersystem",
+          "Trend of uneven development of system components"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Main parameter of value",
+          "S-curve"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Class 1: Building and destruction of Su-Fields,",
+          "Class 2: Development of Su-Fields,",
+          "Class 3: Transition to supersystem and microlevel,",
+          "Class 4: Standard inventive solutions for measuring and detecting, and",
+          "Class 5: Standard inventive solutions on application of SISs."
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "The symbolSmdenotes a substance segmented into many small particles (grains of sand, powder, granules, etc.).",
+          "SIS 2.2.1 reflects one of the sub-trends of TESE, i.e, the segmentation of components."
+        ]
+      },
+      {
+        "type": "ol",
+        "items": [
+          "If Fe-Fields are SISs with ferromagnetic particles, then E-Fields are SISs with currents or interacting currents instead of ferromagnetic particles.",
+          "Development of E-Field – similar to Fe-Fields – repeats the general line of Su-Field evolution:"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "the transition to the supersystem („the way up” – SISs ofsubclass 3.1),",
+          "the transition to microlevel („the way down” – SISs of subclass 3.2)."
+        ]
+      },
+      {
+        "type": "ol",
+        "items": [
+          "G. Altshuller:Find an Idea. Introduction to the theory of inventive problem solving.Novosibirsk.: Nauka Publishers, 1986, ISBN 5-02-029265-6"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Substance-field analysis",
+          "Substance-field model"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          ""
+        ]
+      }
+    ],
+    "tables": [],
+    "metadata": {
+      "docly-version": "2.1.3",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "robots": "max-image-preview:large",
+      "generator": "Elementor 3.24.7; features: e_font_icon_svg, additional_custom_breakpoints, e_optimized_control_loading; settings: css_print_method-external, google_font-enabled, font_display-swap",
+      "msapplication-TileImage": "https://wiki.matriz.org/wp-content/uploads/2024/12/fav1.png"
+    }
+  },
+  "links": [
+    "https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-flow-enhancement/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/interaction-matrix-6168/interaction-matrix-6183/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-ranking-5941/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/ariz-5892/ariz-block-1/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/feature-transfer-7060/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-ranking-5941/providing-function-6709/measurement-function-6715/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/component-analysis-5750/supersystem-5764/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/main-function-5872/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-ranking-5941/corrective-function-6717/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-ranking-5941/auxiliary-function-6687/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/flow-analysis-5839/flow-disadvatage-6629/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/function-oriented-search-fos/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/valu-analysis-6483/",
+    "https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-increasing-value/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/",
+    "https://wiki.matriz.org/knowledge-base/triz/concept-substantiation/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/valu-analysis-6483/value-5943/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/component-analysis-5750/component-5760/",
+    "https://wiki.matriz.org/knowledge-base/triz/resources-in-triz-7018/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/benchmarking/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-ranking-5941/providing-function-6709/transport-function-6713/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/clone-problems-application/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/flow-analysis-5839/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/ariz-5892/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/flow-analysis-5839/flow/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/cause-effect-chain-analysis-5817/initial-disadvantage-5822/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/ariz-5892/x-factor/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-cost-analysis-6247/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/ariz-5892/mini-problem/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/contradictions/engineering-contradiction-5995/contradiction-matrix-6026/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/contradictions/physical-contradiction-6056/algorithm-for-resolving-physical-contradictions/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/ariz-5892/tool/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/s-curve-analysis/",
+    "https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-s-curve-evolution/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-ranking-5941/corrective-function-6717/defect-6820/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/contradictions/inventive-principles-6023/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/interaction-matrix-6168/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/substance-field-modeling/standard-inventive-solutions/substance-field-model/",
+    "https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-increasing-coordination/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/contradictions/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/substance-field-modeling/standard-inventive-solutions/substance-field-analysis/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/contradictions/engineering-contradiction-5995/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/ariz-5892/conflicting-pair/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-ranking-5941/providing-function-6709/supporting-function-6711/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/feature-transfer-7060/neutral-system/",
+    "https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-increasing-controllability/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/cost-analysis-7099/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/main-function-5872/target-component-6357/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/contradictions/engineering-contradiction-5995/contradiction-matrix-6026/typical-parameters/",
+    "https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-s-curve-evolution/main-parameter-of-value/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/ariz-5892/product/",
+    "https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/trimming-6398/trimming-problem-6926/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/standard-inventive-solutions/substance-field-analysis/substance-field-model/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/component-analysis-5750/component-model-6170/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-ranking-5941/providing-function-6709/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/ariz-5892/ideal-final-result-5922/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/valu-analysis-6483/value-5943/ideal-system-5939/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/feature-transfer-7060/feature-transfer-problem-7062/",
+    "https://wiki.matriz.org/knowledge-base/triz/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/cause-effect-chain-analysis-5817/",
+    "https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-transition-to-the-supersystem/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/component-analysis-5750/engineering-system-5762/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-model-6290/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/cause-effect-chain-analysis-5817/key-disadvantage-5820/",
+    "https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-s-curve-evolution/s-curve/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/key-problem-7057/",
+    "https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-increasing-completeness-of-system-components/",
+    "https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-increasing-dynamization/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/feature-transfer-7060/competing-system/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-ranking-5941/basic-function-5722/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/database-of-scientific-effects/",
+    "https://wiki.matriz.org/knowledge-base/triz/glossary-6146/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/trimming-6398/trimming-rules-6730/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/valu-analysis-6483/functionality-index/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/interaction-matrix-6168/interaction-6207/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/feature-transfer-7060/alternative-system/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-ranking-5941/additional-function-6684/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/contradictions/physical-contradiction-6056/",
+    "https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-increasing-degree-of-trimming/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-5674/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-disadvantage-6287/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/cause-effect-chain-analysis-5817/vicious-circle/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/substance-field-modeling/standard-inventive-solutions/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/feature-transfer-7060/base-system/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/trimming-6398/trimming-model-6924/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/standard-inventive-solutions/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/component-analysis-5750/",
+    "https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-uneven-development-of-system-components/",
+    "https://wiki.matriz.org/knowledge-base/triz/trends-of-engineering-systems-evolution-tese-5919/trend-of-decreasing-human-involvement/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/trimming-6398/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/function-cost-analysis-7189/function-analysis-5611/function-modeling-5810/function-ranking-5941/productive-function-6707/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/ariz-5892/operating-time/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/substance-field-modeling/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5807/trimming-6398/partial-trimming-6946/",
+    "https://wiki.matriz.org/knowledge-base/triz/problem-solving-tools-5890/ariz-5892/operating-zone/"
+  ],
+  "images": [
+    "https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_124-e1738250582262.png",
+    "https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_242_a-e1738218425147.png",
+    "https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_241-e1738251265362.png",
+    "https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_116-e1738249908434.png",
+    "https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_113-e1738249752718.png",
+    "https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_117-e1738249884887.png",
+    "https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_122-e1738250190313.png",
+    "https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_212-e1738250825684.png",
+    "https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_423-e1738222711788.png",
+    "https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_442-e1738223673692.png",
+    "https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_432-e1738223425801.png",
+    "https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_225_b-e1738251042647.png",
+    "https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_1-1-2-e1738249711879.png",
+    "https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_225-e1738251023830.png",
+    "https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_211-e1738250650897.png",
+    "https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_222-e1738250858175.png",
+    "https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_249-e1738219807601.png",
+    "https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_248-e1738219703170.png",
+    "https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_2411-1-e1738220190414.png",
+    "https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_1-1-1-e1738249667390.png",
+    "https://wiki.matriz.org/wp-content/plugins/eazydocs/assets/images/icon/folder-open.png",
+    "https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_242_b-e1738218581240.png",
+    "https://wiki.matriz.org/wp-content/themes/docly/assets/img/folder-closed.png",
+    "https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_224-e1738251000430.png",
+    "https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_422-e1738222553995.png",
+    "https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_121-e1738250033385.png",
+    "https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_226-e1738251202221.png",
+    "https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_223-a-e1738250933523.png",
+    "https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_123-e1738250276243.png",
+    "https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_246-e1738219356541.png",
+    "https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_443-e1738223947217.png",
+    "https://wiki.matriz.org/wp-content/plugins/eazydocs/assets/images/icon/folder-closed.png",
+    "https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_223-b-e1738250954649.png",
+    "https://wiki.matriz.org/wp-content/themes/docly/assets/img/folder-open.png",
+    "https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_242_c-e1738251304436.png",
+    "https://wiki.matriz.org/wp-content/uploads/2024/10/logo.svg",
+    "https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_245-e1738219108738.png",
+    "https://wiki.matriz.org/wp-content/uploads/2024/10/logo_white.svg",
+    "https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_421-e1738222411506.png",
+    "https://wiki.matriz.org/wp-content/uploads/2025/01/SIS_125-e1738250605791.png"
+  ],
+  "html_file": "a40146457b8b3864cc4341e5d89fcc6c.html",
+  "timestamp": 1756671660.624203
+}
